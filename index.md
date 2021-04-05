@@ -1,6 +1,6 @@
 
 # About me 
-## Academic Background
+## <center>Academic Background</center>
 <img src="/matriculation-photo-full.jpeg" width="200" class="left-img"/>
 
 I am a PhD student in [Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) at the University of Cambridge, supported with a studentship from [Health Data Research UK](https://www.hdruk.ac.uk/), the [Alan Turing Institute](https://www.turing.ac.uk/), and the [Wellcome Trust](https://wellcome.org/). 
