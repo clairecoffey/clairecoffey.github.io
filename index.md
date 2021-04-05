@@ -29,4 +29,4 @@ I really love music and singing, and am a member of [Clare Hall Choir](https://w
 
 I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office (the perks of doing a computer-based PhD)! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains.
 
-I also enjoy hiking, yoga, dancing, and I have trained in Lau Gar Kung Fu. 
+I also enjoy hiking, yoga, dancing, and I have trained in [Lau Gar Kung Fu](https://www.laugar-kungfu.com/). 
