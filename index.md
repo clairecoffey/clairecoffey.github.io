@@ -15,11 +15,11 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## Projects 
 - [<b>Axes of Prognosis</b>](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
-- <b>Reinforcement Learning for Healthcare</b>: I am currently working on a project on reinforcement learning, supervised by Chris Yau, in which I hope to gain a deep understanding of the field, and apply this to multimorbidity trajectory modelling. 
+- <b>Reinforcement Learning for Healthcare</b>: I am currently working on a project on reinforcement learning, supervised by [Chris Yau](https://cwcyau.github.io/authors/admin/), in which I hope to gain a deep understanding of the field, and apply this to multimorbidity trajectory modelling. 
 
 ## Talks
 As here isn't the right place to share my reality tv show appearances, here's a couple of brief descriptions of academic talks I've recently done:
-- <b>HDR UK Bimonthly Webinar</b>: I was invited by Peter Diggle to join him in a conversation about the HDR UK PhD Programme in the HDR UK bimonthly webinar.
+- <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the HDR UK bimonthly webinar.
 - <b>UCL MedTech</b>: I was invited to partake in the UCL MedTech 2021 event, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
 ## Articles
