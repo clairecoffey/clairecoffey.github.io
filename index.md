@@ -1,12 +1,8 @@
-.left {
- float: left;
- padding: 10px 10px 10px 10px;}
- 
- 
+
  
 # About me 
 
-<img src="/matriculation-photo-full.jpeg" width="300" class="left"/>
+<img src="/matriculation-photo-full.jpeg" width="200" class="left-img"/>
 
 I have recently started my PhD in [Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) at the University of Cambridge, with a studentship from Health Data Research UK, the Alan Turing Institute, and the Wellcome Trust. 
 
