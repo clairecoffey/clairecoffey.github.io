@@ -1,3 +1,5 @@
+Claire Coffey
+
 ## About me 
 
 ## Research 
