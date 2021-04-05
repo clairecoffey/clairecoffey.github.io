@@ -1,4 +1,3 @@
-Claire Coffey
 
 ## About me 
 
