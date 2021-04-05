@@ -112,7 +112,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  text-size:large;
+  text-size: large;
+  -webkit-text-stroke: 1px black;
   background-color: #ffffff;
   background-image: url("/3italy_sunset_mountains.png");
   
