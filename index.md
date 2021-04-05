@@ -14,11 +14,11 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus (amongst many things) was on the implementation of multi-objective route planning algorithms. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## Projects 
-- <b>[Axes of Prognosis]</b>(https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): As part of my PhD training, I had the opportunity to work with COVID-19 data from Wuhan, China. I collaborated with Emma Whitfield and Honghan Wu on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
+- <b>[Axes of Prognosis]</b>(https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): As part of my PhD training, I had the opportunity to work with COVID-19 data from Wuhan, China. I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
 - <b>Reinforcement Learning for Healthcare</b>: I am currently working on a project on reinforcement learning, supervised by Chris Yau, in which I hope to gain a deep understanding of the field, and apply this to multimorbidity trajectory modelling. 
 
 ## Talks
-As a famous researcher all around the globe, I'm practically a household name. As here isn't the right place to share my reality tv show appearances, here's a couple of brief descriptions of talks I've recently done:
+As here isn't the right place to share my reality tv show appearances, here's a couple of brief descriptions of academic talks I've recently done:
 - <b>HDR UK Bimonthly Webinar</b>: I was invited by Peter Diggle to join him in a conversation about the HDR UK PhD Programme in the HDR UK bimonthly webinar.
 - <b>UCL MedTech</b>: I was invited to partake in the UCL MedTech 2021 event, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
