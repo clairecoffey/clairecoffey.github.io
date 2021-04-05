@@ -15,7 +15,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## Projects 
 <img src="/F2.large.jpg" width="300" class="left-img"/>
-- [<b>Axes of Prognosis</b>](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): As part of my PhD training, I had the opportunity to work with COVID-19 data from Wuhan, China. I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
+- [<b>Axes of Prognosis</b>](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
 - <b>Reinforcement Learning for Healthcare</b>: I am currently working on a project on reinforcement learning, supervised by Chris Yau, in which I hope to gain a deep understanding of the field, and apply this to multimorbidity trajectory modelling. 
 
 ## Talks
