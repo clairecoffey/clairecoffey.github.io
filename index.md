@@ -31,6 +31,6 @@ Here are a couple of articles written about me (paparazzi back off!):
 ## Personal Interests 
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). I am into gardening and lockdown has meant that i've got a bit carried away with houseplants, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Eating these is an equally important hobby of mine.
 
-I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office (the perks of doing a computer-based PhD)! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains. At least we have one of these in Cambridge. 
+I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office (the perks of doing a computer-based PhD)! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains.
 
 I also enjoy hiking, yoga, dancing, and I have trained in Lau Gar Kung Fu. 
