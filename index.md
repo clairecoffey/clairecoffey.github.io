@@ -7,7 +7,7 @@ I am a PhD student in [Health Data Science](https://www.hdruk.ac.uk/careers-in-h
 
 I'm interested in developing multimorbidity risk prediction algorithms using machine learning; especially considering fairness and bias in this context. Moreover, I'm interested in how fair machine learning for healthcare can be done in a way to consider the environmental impact of these algorithms - especially since climate change disproportionately affects the most disadvantaged individuals globally and in the UK, including negatively impacting their health.
 
-Before this, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness and bias in machine learning. The photo of me here is from the happy day I matriculated into Clare Hall College, which is a wonderful college - not only because of the name!
+Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness and bias in machine learning. The photo of me here is from the happy day I matriculated into Clare Hall College, which is a wonderful college - not only because of the name!
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
