@@ -10,10 +10,10 @@ Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPh
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
-After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus (amongst many things) was on the implementation of multi-objective route planning algorithms. 
+After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
 
 ## <center>Projects</center>
-- <b>Axes of Prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1)
+- <b>Axes of Prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
 - <b>Multi Objective Journey Optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## <center>Talks</center>
