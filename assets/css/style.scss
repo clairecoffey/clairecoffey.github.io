@@ -112,7 +112,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
+  background-color: white;
   background-image: url("/IMG_20200314_180425.jpg");
   
   @include large {
