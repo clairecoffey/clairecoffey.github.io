@@ -3,17 +3,18 @@
 ## Academic Background
 <img src="/matriculation-photo-full.jpeg" width="200" class="left-img"/>
 
-I have recently started my PhD in [Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) at the University of Cambridge, supported with a studentship from [Health Data Research UK](https://www.hdruk.ac.uk/), the [Alan Turing Institute](https://www.turing.ac.uk/), and the [Wellcome Trust](https://wellcome.org/). I would love to make a genuine positive difference with my work; and I feel that applying my computer science knowledge to healthcare problems is one of the most impactful ways to do this. 
+I am a PhD student in [Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) at the University of Cambridge, supported with a studentship from [Health Data Research UK](https://www.hdruk.ac.uk/), the [Alan Turing Institute](https://www.turing.ac.uk/), and the [Wellcome Trust](https://wellcome.org/). 
 
-I'm interested in developing multimorbidity risk prediction algorithms using machine learning; especially considering fairness and bias in this context. Moreover, I'm interested in how machine learning for healthcare can be done in a way to consider the environmental impact of these algorithms - especially since climate change disproportionately affects the most disadvantaged individuals globally and in the UK, including negatively impacting their health.
+I'm interested in developing multimorbidity risk prediction algorithms using machine learning; especially considering fairness and bias in this context. Moreover, I'm interested in how fair machine learning for healthcare can be done in a way to consider the environmental impact of these algorithms - especially since climate change disproportionately affects the most disadvantaged individuals globally and in the UK, including negatively impacting their health.
 
-Before this, I was a DeepMind Scholar in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness and bias in machine learning - a topic which I feel is extremely important and needs to be addressed. The photo of me here is from the happy day I matriculated into Clare Hall College, which is a wonderful college - not only because of the name!
+Before this, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness and bias in machine learning. The photo of me here is from the happy day I matriculated into Clare Hall College, which is a wonderful college - not only because of the name!
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus (amongst many things) was on the implementation of multi-objective route planning algorithms. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## Projects 
+<img src="/F2.large.jpg" width="300" class="left-img"/>
 - [<b>Axes of Prognosis</b>](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): As part of my PhD training, I had the opportunity to work with COVID-19 data from Wuhan, China. I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
 - <b>Reinforcement Learning for Healthcare</b>: I am currently working on a project on reinforcement learning, supervised by Chris Yau, in which I hope to gain a deep understanding of the field, and apply this to multimorbidity trajectory modelling. 
 
