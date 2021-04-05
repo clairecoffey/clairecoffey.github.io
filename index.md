@@ -6,7 +6,7 @@
 
 My name's Claire Coffey and welcome to my self-indulgent website, all about _me_. I have recently started my PhD in [Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) at the University of Cambridge, with a studentship from Health Data Research UK, the Alan Turing Institute, and the Wellcome Trust. I really hope to be able to make a positive difference 
 
-Before this, I was a DeepMind Scholar in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by Neil Lawrence and my research project focused on fairness in machine learning. The photo of me here is from the happy day I signed a very big book to matriculate into Clare Hall College, which is a wonderful college - not only because of the name!
+Before this, I was a DeepMind Scholar in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by Neil Lawrence and my research project focused on fairness and discrimination in machine learning - a topic which I feel is extremely important and needs to be addressed. The photo of me here is from the happy day I signed a very big book to matriculate into Clare Hall College, which is a wonderful college - not only because of the name!
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (which, I'm sure you know, is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo which was an added bonus. 
 
