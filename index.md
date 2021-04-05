@@ -14,7 +14,7 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus (amongst many things) was on the implementation of multi-objective route planning algorithms. 
 
 ## Projects 
-- [<b>Axes of Prognosis</b>](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1): Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis.
+- <b>Axes of Prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1)
 - <b>Multi Objective Journey Optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## Talks
