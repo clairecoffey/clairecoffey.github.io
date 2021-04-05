@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Claire Coffey"
-page: /index/
+permalink: /index/
 ---
 
 ## About me 
