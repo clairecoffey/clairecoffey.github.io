@@ -136,15 +136,15 @@ a {
   color: #4270ab;
 
   @include large {
-    font-size: 4.25rem;
+    font-size: 4.35rem;
   }
 
   @include medium {
-    font-size: 3.25rem;
+    font-size: 3.35rem;
   }
 
   @include small {
-    font-size: 2.75rem;
+    font-size: 2.85rem;
   }
 }
 
