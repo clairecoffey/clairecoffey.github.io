@@ -6,7 +6,7 @@ I am a PhD student in Health Data Science at the University of Cambridge, on the
 
 Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness in machine learning. The photo of me here is from the happy day I matriculated into [Clare Hall](https://www.clarehall.cam.ac.uk/) College, which is a wonderful college - and not only because of the name!
 
-I completed my first-class BSc in Computer Science at the University of Birmingham (which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
+I completed my first-class BSc in Computer Science at the University of Birmingham (in Birmingham, which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
 
