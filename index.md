@@ -11,10 +11,11 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
 
 ## <center>Projects</center>
-  ### Current
+### Current
 - <b> Reinforcement learning for healthcare</b>: As part of my PhD training year, I am working on a project wherein I explore various reinforcement learning paradigms. Using this knowledge, I hope to apply RL to healthcare in the context of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) is supervising me on this project.
 - <b>ThinkLab NHS sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS in order to help develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
 - <b>HDR UK student-led seminar series</b>: I am a member of the organising commitee for the student-led seminar series for my PhD cohort, organising and hosting seminar events. 
+
 ### Past
 - <b>Axes of prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield on this project supervised by [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
 - <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in automated decision making in the context of fairness, arguing that variance errors may be preferable, using data on criminal recidivism. 
