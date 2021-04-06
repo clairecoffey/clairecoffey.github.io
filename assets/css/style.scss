@@ -152,14 +152,14 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 1;
-  font-family:"Courier New","Courier","Andale Mono";
+  font-family:"Courier","Andale Mono";
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 1.1rem;
   }
 
   @include small {
