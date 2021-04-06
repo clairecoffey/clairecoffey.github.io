@@ -131,7 +131,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0;
   font-family: "Brush Script MT", "Apple Chancery";
   color: #4270ab;
 
@@ -168,6 +168,8 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-word;
 
   :first-child {
     margin-top: 0;
