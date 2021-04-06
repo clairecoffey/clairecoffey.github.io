@@ -27,7 +27,7 @@ As here isn't the right place to share my reality tv show appearances, here's a 
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
 ## <center>Personal Interests</center>
-<img src="/welshsunset.jpeg" width="225" class="right-img"/>
+<img src="/welshsunset.jpeg" width="230" class="right-img"/>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). 
 
 I am into gardening and lockdown has meant that I have got a bit carried away, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Cooking and eating these is an equally important hobby of mine.
