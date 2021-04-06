@@ -1,6 +1,6 @@
 
 ## <center>Academic Background</center>
-<img src="/matriculation-photo-full.jpeg" width="220" class="left-img"/>
+<img src="/matriculation-photo-full.jpeg" width="230" class="left-img"/>
 
 I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). I am currently in my PhD training year, supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/), and my research interests are in socially and environmentally conscious machine learning algorithms for multimorbidity disease risk prediction.
 
