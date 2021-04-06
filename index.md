@@ -18,7 +18,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 #### Past
 - <b>Axes of prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield on this project supervised by [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
-- <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in automated decision making in the context of fairness using data on criminal recidivism. 
+- <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in automated decision making in the context of fairness, using data on criminal recidivism. 
 - <b>Multi objective journey optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) on this topic. I also worked on this for my final-year BSc project, supervised by [Dave Parker](https://www.cs.bham.ac.uk/~parkerdx/index.php), where I was nominated for the research dissertation prize.
 
 ## <center>Talks</center>
