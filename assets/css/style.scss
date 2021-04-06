@@ -154,15 +154,15 @@ a {
   
 
   @include large {
-    font-size: 2.25rem;
+    font-size: 1.45rem;
   }
 
   @include medium {
-    font-size: 2.15rem;
+    font-size: 1.25rem;
   }
 
   @include small {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
 
@@ -177,17 +177,17 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 2.1rem;
+    font-size: 1.5rem;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 2.1rem;
+    font-size: 1.3rem;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
   
   kbd {
@@ -221,8 +221,6 @@ a {
     border-bottom: 1px solid #ffb8aa;
   }
   
-  
-
   p {
     margin-bottom: 1em;
   }
