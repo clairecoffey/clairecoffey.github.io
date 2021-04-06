@@ -23,7 +23,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## <center>Talks</center>
 As here isn't the right place to share my reality tv show appearances, here's a couple of academic talks I've recently done:
-- <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
+- <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/events/hdr-uk-bimonthly-science-webinar-january-2021/).
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
 ## <center>Personal Interests</center>
