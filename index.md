@@ -21,11 +21,6 @@ As here isn't the right place to share my reality tv show appearances, here's a 
 - <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
-## <center>Articles</center>
-Here are a couple of articles written about me (paparazzi back off!):
-- [HDR UK - Meet the PhD Students](https://www.hdruk.ac.uk/people/claire-coffey/)
-- [DeepMind Scholars at Cambridge](https://www.cst.cam.ac.uk/deepmind-scholars-cambridge)
-
 ## <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). I am into gardening and lockdown has meant that i've got a bit carried away with houseplants, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Eating these is an equally important hobby of mine.
 
