@@ -23,8 +23,8 @@ As here isn't the right place to share my reality tv show appearances, here's a 
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
 ## <center>Personal Interests</center>
-I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). I am into gardening and lockdown has meant that i've got a bit carried away with houseplants, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Eating these is an equally important hobby of mine.
+I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). I am into gardening and lockdown has meant that I have got a bit carried away, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Eating these is an equally important hobby of mine.
 
-I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office (the perks of doing a computer-based PhD)! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains.
+I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains.
 
 I also enjoy hiking, yoga, dancing, and I have trained in [Lau Gar Kung Fu](https://www.laugar-kungfu.com/). 
