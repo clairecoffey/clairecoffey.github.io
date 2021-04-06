@@ -2,7 +2,7 @@
 ## <center>Academic Background</center>
 <img src="/matriculation-photo-full.jpeg" width="225" class="left-img"/>
 
-I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). I am currently in my PhD training year, supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/) in the [Department of Public Health](https://www.phpc.cam.ac.uk/), and my research interests are in socially and environmentally conscious machine learning algorithms for multimorbidity risk prediction.
+I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). I am in my PhD training year, supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/) in the [Department of Public Health](https://www.phpc.cam.ac.uk/), and currently my research interests are in socially and environmentally conscious machine learning algorithms for multimorbidity risk prediction.
 
 Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness in machine learning. The photo of me here is from the happy day I matriculated into [Clare Hall](https://www.clarehall.cam.ac.uk/) College, which is a wonderful college - and not only because of the name!
 
