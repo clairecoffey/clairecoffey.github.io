@@ -2,7 +2,7 @@
 ## <center>Academic Background</center>
 <img src="/matriculation-photo-full.jpeg" width="200" class="left-img"/>
 
-I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). I am currently in my PhD training year, supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/).
+I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). I am currently in my PhD training year, supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/). Currently, my research interests are in socially and environmentally conscious machine learning algorithms for multimorbidity disease risk prediction.
 
 Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the University of Cambridge, where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness and bias in machine learning. The photo of me here is from the happy day I matriculated into Clare Hall College, which is a wonderful college - not only because of the name!
 
@@ -12,6 +12,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## <center>Projects</center>
 - <b>Axes of Prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
+- <b>ThinkLab NHS Sustainability Project</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS in order to help develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
 - <b>Multi Objective Journey Optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## <center>Talks</center>
