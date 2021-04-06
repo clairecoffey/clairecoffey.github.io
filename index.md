@@ -8,14 +8,14 @@ Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPh
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
-After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds autonomous vehicle software. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
+After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
 
 ## <center>Projects</center>
 - <b>Axes of prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
 - <b>ThinkLab NHS sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS in order to help develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
 - <b>HDR UK student-led seminar series</b>: I am a member of the organising commitee for the student-led seminar series for my PhD cohort, organising and hosting seminar events. 
 - <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in automated decision making in the context of fairness, arguing that variance errors may be preferable, using data on criminal recidivism. 
-- <b>Multi objective journey optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
+- <b>Multi objective journey optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work. I also worked on this for my final-year BSc project, supervised by [Dave Parker](https://www.cs.bham.ac.uk/~parkerdx/index.php), which I completed on the topic of multi-objective route plannin and was nominated for the research dissertation prize.
 
 ## <center>Talks</center>
 As here isn't the right place to share my reality tv show appearances, here's a couple of academic talks I've recently done:
