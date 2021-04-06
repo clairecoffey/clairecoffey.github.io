@@ -12,7 +12,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## <center>Projects</center>
 - <b>Axes of Prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield and [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) on this project to identify and predict nuanced subtypes of COVID-19 prognosis. Our paper can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
-- <b>ThinkLab NHS Sustainability Project</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS in order to help develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
+- <b>ThinkLab NHS Sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS in order to help develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
 - <b>Multi Objective Journey Optimisation</b>: In my previous life as an AI researcher in industry, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) for this work.
 
 ## <center>Talks</center>
