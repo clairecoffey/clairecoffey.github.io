@@ -2,7 +2,7 @@
 ## <center>Academic Background</center>
 <img src="/matriculation-photo-full.jpeg" width="225" class="left-img"/>
 
-I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/) in the [Department of Public Health](https://www.phpc.cam.ac.uk/). Currently, my research interests are in socially and environmentally conscious machine learning algorithms for multimorbidity risk prediction.
+I am a PhD student in Health Data Science at the University of Cambridge, on the [Health Data Research UK - Turing Institute Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/) in the [Department of Public Health](https://www.phpc.cam.ac.uk/). Currently, my research interests are in socially and environmentally conscious machine learning algorithms, especially in multimorbidity risk prediction and personalised medicine.
 
 Previously, I was a [DeepMind Scholar](https://deepmind.com/scholarships) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), where I was supervised by [Neil Lawrence](https://inverseprobability.com/) and my research project focused on fairness in machine learning. The photo of me here is from the happy day I matriculated into [Clare Hall](https://www.clarehall.cam.ac.uk/) College, which is a wonderful college - and not only because of the name!
 
@@ -31,6 +31,6 @@ I really love music and singing, and am a member of [Clare Hall Choir](https://w
 
 I am into gardening and lockdown has meant that I have got a bit carried away, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Cooking and eating these is an equally important hobby of mine.
 
-I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office! I also love taking photos of nature in an attempt to capture the beauty of the earth - in particular, of sunsets and mountains.
+I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office! I also love taking photos of nature in an attempt to capture its beauty - in particular, of sunsets and mountains.
 
 My other hobbies include hiking, yoga, digital art, dancing, and I have trained in [Lau Gar Kung Fu](https://www.laugar-kungfu.com/). 
