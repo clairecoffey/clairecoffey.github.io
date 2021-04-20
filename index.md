@@ -29,8 +29,8 @@ As here isn't the right place to share my reality tv show appearances, here's a 
 ### <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). 
 
-I am into gardening and lockdown has meant that I have got a bit carried away, so my flat is now half jungle. I'm also involved in the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Cooking and eating these is an equally important hobby of mine.
+I am into gardening and lockdown has meant that I have got a bit carried away, so my flat is now half jungle. I'm also involved in running the exciting new [Clare Hall Allotment](https://www.clarehall.cam.ac.uk/news/10-03-2021/clare-hall-allotment-initiative-officially-launches) where we're growing all sorts of fruit and vegetables sustainably. Cooking and eating these is an equally important hobby of mine.
 
 I adore travelling, and especially exploring nature; I have a campervan which facillitates this, and can even work as a makeshift office! I also love taking photos of nature in an attempt to capture its beauty - in particular, of sunsets and mountains.
 
-My other hobbies include hiking, yoga, digital art, dancing, and I have trained in [Lau Gar Kung Fu](https://www.laugar-kungfu.com/). 
+My other hobbies include hiking, yoga, digital art, dancing, and I have trained in Lau Gar Kung Fu.
