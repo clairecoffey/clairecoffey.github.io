@@ -22,7 +22,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 - <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles. I am a named inventor on a [patent](https://patents.google.com/patent/US20190346275A1/en) on this topic. I also worked on this for my final-year BSc project, supervised by [Dave Parker](https://www.cs.bham.ac.uk/~parkerdx/index.php), where I was nominated for the research dissertation prize.
 
 ## <center>Talks</center>
-As here isn't the right place to share my reality tv show appearances, here's a couple of academic talks I've recently done:
+I am interested in outreach and science communication, and have been involved in both throughout my studies. Here's a couple of talks I've recently given:
 - <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/events/hdr-uk-bimonthly-science-webinar-january-2021/).
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
