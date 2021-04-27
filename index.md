@@ -8,7 +8,7 @@ Previously, I was a [DeepMind Scholar](https://www.cst.cam.ac.uk/deepmind-schola
 
 I completed my first-class BSc in Computer Science at the University of Birmingham (in Birmingham, UK, which is widely appreciated as the best city in the world). As part of this degree, I also got the opportunity to study abroad at the University of British Columbia and the University of Waterloo, which was an added bonus. 
 
-After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on the implementation of multi-objective route planning algorithms. 
+After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on multi-objective optimisation, in particular, the implementation of multi-objective route planning algorithms. 
 
 ## <center>Projects</center>
 #### Current
