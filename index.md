@@ -12,8 +12,8 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 ## <center>Projects</center>
 #### Current
-- <b> Reinforcement learning for healthcare</b>: I am working on a project wherein I explore various reinforcement learning paradigms. Using this knowledge, I hope to apply RL to healthcare in the context of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) is supervising me on this project.
-- <b>ThinkLab NHS sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS and [Cambridge Zero](https://www.zero.cam.ac.uk/) in order to develop a plan to achieve [net zero carbon emissions](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) and shape future policies.
+- <b> Reinforcement learning for healthcare</b>: I am working on a project wherein I explore various reinforcement learning paradigms, with a particular focus on offline RL. Using this knowledge, I am applying offline RL to the problem of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) is supervising me on this project.
+- <b>ThinkLab NHS sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), working on a project with the NHS to improve the delivery of the [NHS Green Plan](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) in Cambridgeshire, by creating an actionable solutions and shaping future policies.
 - <b>HDR UK student-led seminar series</b>: I am a member of the organising commitee for the student-led seminar series for my PhD cohort, organising and hosting seminar events. 
 
 #### Past
