@@ -15,7 +15,7 @@ After my undergraduate degree, I worked for a couple of years in a research and 
 
 
 ## <center>Projects</center>
-- <b>HDR UK student-led seminar series</b>: I am a member of the organising commitee for the student-led seminar series for my PhD cohort, organising and hosting seminar events. 
+- <b>HDR UK student-led seminar series</b>: I am a member of the organising committee for the student-led seminar series for my PhD cohort, organising and hosting seminar events. 
 - <b> Reinforcement learning for healthcare</b>: I worked on a project as part of my PhD training year wherein I explored various reinforcement learning paradigms, with a particular focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) supervised me on this project.
 - <b>ThinkLab NHS sustainability</b>: I am a member of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/). We worked on a project with the NHS to improve the delivery of the [NHS Green Plan](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf) in Cambridgeshire, by creating an actionable solutions and shaping future policies. We produced a report titled "Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care", for which my focus was on procurement.
 - <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in automated decision making in the context of fairness, using data on criminal recidivism. 
