@@ -11,7 +11,7 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked for a couple of years in a research and development role for a start-up company that builds artificial intelligence software for autonomous vehicles. Here, my research focus was on multi-objective optimisation, in particular, the implementation of multi-objective route planning algorithms. 
 
 ## <center>Publications</center>
-- <b>Axes of prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield on this project supervised by [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) to identify and predict nuanced subtypes of COVID-19 prognosis. It has been accepted for publication at [AMIA 2021](https://www.amia.org/amia2021). The preprint can be found [here](https://www.medrxiv.org/content/10.1101/2021.03.16.21253371v1).
+- <b>Axes of prognosis</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield on this project supervised by [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) to identify and predict nuanced subtypes of COVID-19 prognosis. It was published at the American Medical Informatics Association Annual Symposium 2021 and can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic).
 
 
 ## <center>Projects</center>
