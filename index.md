@@ -29,6 +29,6 @@ I am interested in outreach and science communication, and have been involved in
 ### <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/clare-hall-choir). 
 
-I am interested in plants and gardening; due to lockdown, my flat is now half jungle. I also co-run the exciting [Clare Hall Allotment](https://www.instagram.com/clarehallallotment/), and am co-president and co-founder of the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we've built a lovely community and are growing all sorts of fruit and vegetables sustainably, as well as donating to local charities. Cooking and eating these is an equally important hobby of mine!
+I am interested in plants and gardening; I co-run the exciting [Clare Hall Allotment](https://www.instagram.com/clarehallallotment/), and am co-president and co-founder of the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we've built a lovely community and are growing all sorts of fruit and vegetables sustainably, as well as donating to local charities. Cooking and eating these is an equally important hobby of mine!
 
-I adore travelling, especially exploring nature (often in my campervan). My other hobbies include hiking, yoga, digital art, photography, and I train in Kung Fu.
+I adore travelling, especially exploring nature (often in my campervan). My other hobbies include hiking, dancing, yoga, digital art, photography, and I train in Kung Fu.
