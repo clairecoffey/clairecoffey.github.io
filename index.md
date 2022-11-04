@@ -25,7 +25,7 @@ I am interested in science communication. Here's a couple of talks I've recently
 - <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
-###<center>Personal Interests</center>
+## <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). 
 
 I am interested in plants and gardening; I am co-president and co-founder of the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we've built a lovely community and are growing all sorts of fruit and vegetables sustainably, as well as donating to local charities. Cooking and eating these is an equally important hobby of mine!
