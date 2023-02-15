@@ -30,4 +30,4 @@ I really love music and singing, and am a member of [Clare Hall Choir](https://w
 
 I am also interested in gardening; I am co-president and co-founder of the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we have built a community to grow fruit and vegetables sustainably, as well as donating to local charities. Cooking and eating these is an equally important hobby of mine!
 
-I adore travelling, especially exploring nature. My other hobbies include hiking, dancing, yoga, digital art, photography, and I train in Kung Fu.
+I adore travelling, especially exploring nature. My other hobbies include hiking, dancing, yoga, digital art, and photography. I also train in [Kung Fu](https://www.cambridgesu.co.uk/organisation/fwccambridge/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/). 
