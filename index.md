@@ -1,7 +1,6 @@
 
 ## <center>Academic Background</center>
 <img src="/clairecoffey_matriculation_photo.jpg" width="225" class="left-img"/>
-
 I am a PhD candidate in Health Data Science at the University of Cambridge, on the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) in [Inouye Lab](https://www.inouyelab.org/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/), [Mike Inouye](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-research-staff/michael-inouye/), and [Sam Lambert](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/samuel-lambert/). My research interests are in assessing and improving fairness in medical prediction algorithms, including in polygenic risk scores, and building machine learning algorithms for fair medical risk prediction.
 
 I was a [DeepMind Scholar](https://www.cst.cam.ac.uk/deepmind-scholars-cambridge) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), supervised by [Neil Lawrence](https://inverseprobability.com/). My research project focused on the fairness of bias and variance errors in machine learning models. I am a member of [Clare Hall](https://www.clarehall.cam.ac.uk/) College.
@@ -30,4 +29,4 @@ I really love music and singing, and am a member of [Clare Hall Choir](https://w
 
 I am also interested in gardening; I am co-president and co-founder of the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we have built a community to grow fruit and vegetables sustainably, as well as donating to local charities. Cooking and eating these is an equally important hobby of mine!
 
-I adore travelling, especially exploring nature. My other hobbies include hiking, dancing, yoga, digital art, and photography. I also train in [Kung Fu](https://www.cambridgesu.co.uk/organisation/fwccambridge/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/). 
+I adore travelling, especially exploring nature. My other hobbies include hiking, dancing, yoga, digital art, and photography. I also train in [Kung Fu](https://www.fwckungfu.com/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/). 
