@@ -21,7 +21,7 @@ After my undergraduate degree, I worked in a research and development role for a
 
 ## <center>Talks</center>
 I am interested in science communication and public engagement. Here are some of the talks I've been invited to give:
-- <b>Cambridge Festival (2023)</b>: At the [Cambridge Festival](https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/events/polygenic-risk-scores-research-and-healthcare), I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. 
+- <b>Cambridge Festival (2023)</b>: At the [Cambridge Festival](https://www.festival.cam.ac.uk/events/polygenic-risk-scores-research-and-healthcare), I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. 
 - <b>HDR UK Doctoral Immersion Week (2023):</b> As a guest speaker, I presented my research at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
 - <b>HDR UK Bimonthly Webinar</b> (2021): I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
