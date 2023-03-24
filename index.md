@@ -20,7 +20,8 @@ After my undergraduate degree, I worked in a research and development role for a
 - <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.bham.ac.uk/~parkerdx/index.php). For this I was nominated for the research dissertation prize.
 
 ## <center>Talks</center>
-I am interested in science communication. Here's a couple of talks I've recently given:
+I am interested in science communication and public engagement. Here are some of the talks I've given:
+- <b>Cambridge Festival</b>: I was invited to speak at the [Cambridge Festival](https://www.festival.cam.ac.uk/), where I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. 
 - <b>HDR UK Bimonthly Webinar</b>: I was invited by [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) to join him in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech 2021</b>: I was invited to partake in the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research so far in the hope to inspire undergraduate students at UCL.
 
