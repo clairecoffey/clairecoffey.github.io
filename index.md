@@ -28,7 +28,7 @@ After my undergraduate degree, I worked in a research and development role for a
 
 ## <center>Teaching</center>
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistantant on the Advanced Statistics for Epidemiology module.
-- <b> Computer science tutoring and teaching (2017-2022):</b> Freelance tutoring for GCSE and A-Level computer science; teaching computer science in schools years 7-11, designing and delivering lessons and activities.
+- <b> Computer science tutoring and teaching (2017-2022):</b> Freelance tutoring for GCSE and A-Level computer science; teaching computer science in schools years 7-13, designing and delivering lessons and activities.
 
 ## <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). 
