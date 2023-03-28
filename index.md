@@ -17,15 +17,18 @@ After my undergraduate degree, I worked in a research and development role for a
 - <b>Data Science for Health Equity: statistical methods</b>: I am a member of the [Data Science for Health Equity](https://www.datascienceforhealthequity.com/) community, and organiser of the [statistical methods theme](https://www.datascienceforhealthequity.com/themes/statistical-methods). We organise seminars, run a reading group, and conduct research on statistical methods for health equity. 
 - <b> Reinforcement learning for healthcare</b>: I worked on a project wherein I explored various reinforcement learning paradigms with a particular focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) supervised me on this project.
 - <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in ML automated decision making in the context of fairness, using data on criminal recidivism. 
-- <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.bham.ac.uk/~parkerdx/index.php). For this I was nominated for the research dissertation prize.
+- <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). For this I was nominated for the research dissertation prize.
 
-## <center>Talks</center>
-Here are some of the talks I've been invited to give:
+## <center>Invited Talks</center>
 - <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I gave a talk to senior members of the HDR UK Community on my PhD research on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
 - <b>Cambridge Festival (2023)</b>: At the [Cambridge Festival](https://www.festival.cam.ac.uk/events/polygenic-risk-scores-research-and-healthcare), I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. 
-- <b>HDR UK Doctoral Immersion Week (2023):</b> I gave a seminar on my research at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
-- <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in a conversation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
+- <b>HDR UK Doctoral Immersion Week (2023):</b> I gave a seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
+- <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in a presentation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
+
+## <center>Teaching</center>
+- <b> MPhil Population Health Sciences (2023):</b> Teaching assistantant on the Advanced Statistics for Epidemiology module.
+- <b> Computer science tutoring:</b> Freelance tutoring for GCSE and A-Level computer science; placement teaching computer science in schools years 7-11, designing and delivering lessons and activities.
 
 ## <center>Personal Interests</center>
 I really love music and singing, and am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). 
