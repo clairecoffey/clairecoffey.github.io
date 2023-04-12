@@ -21,7 +21,7 @@ After my undergraduate degree, I worked in a research and development role for a
 
 ## <center>Invited Talks</center>
 - <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I gave a talk to senior members of the HDR UK Community on my PhD research on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
-- <b>Cambridge Festival (2023)</b>: At the [Cambridge Festival](https://www.festival.cam.ac.uk/events/polygenic-risk-scores-research-and-healthcare), I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. 
+- <b>Cambridge Festival (2023)</b>: At the Cambridge Festival, I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. The talk can be found [here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 - <b>HDR UK Doctoral Immersion Week (2023):</b> I gave a seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
 - <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in a presentation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
