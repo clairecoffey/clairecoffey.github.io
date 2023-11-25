@@ -20,14 +20,14 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). For this I was nominated for the research dissertation prize.
 
 ## <center>Invited Talks</center>
-- <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I gave a talk to senior members of the HDR UK Community on my PhD research on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
-- <b>Cambridge Festival (2023)</b>: At the Cambridge Festival, I gave a talk to members of the public on my research on <i>Fairness in medical risk prediction algorithms</i>. A recording of the talk can be found [here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
-- <b>HDR UK Doctoral Immersion Week (2023):</b> I gave a seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
-- <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in a presentation about the HDR UK PhD Programme in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
+- <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I spoke on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
+- <b>Cambridge Festival (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
+- <b>HDR UK Doctoral Immersion Week (2023):</b> Guest seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
+- <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in conversation on running and completing a PhD in the time of COVID in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
 - <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
 
 ## <center>Teaching</center>
-- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Designed and delivered this course for high school students, focusing on AI for sustainability. 
+- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Ahead of COP28, I designed and delivered this course for high school students in UAE. I focused on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
 - <b> High school/GCSE/A-Level Computer Science (2017-2022):</b> Perssonalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
@@ -36,4 +36,4 @@ I am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). Els
 
 I co-founded the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we built a community to grow fruit and vegetables sustainably, as well as donating to local charities. This included writing grant applications for funding, managing the day-to-day running of the allotment, and social media management. 
 
-I adore travelling, especially exploring nature and sustainable travel. My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art (freelance digital artist/graphic designer), and photography. I also train in [Kung Fu](https://www.fwckungfu.com/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I am social officer. 
+I adore travelling, especially exploring nature and sustainable travel. My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art (freelance digital artist/graphic designer), and photography. I also train in [Kung Fu](https://www.fwckungfu.com/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I am social secretary. 
