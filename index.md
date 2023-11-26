@@ -27,7 +27,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
 
 ## <center>Teaching</center>
-- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Ahead of COP28, I designed and delivered this course for high school students in UAE. I focused on AI for sustainable development, climate change, and AI in the Global South. 
+- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> I designed and delivered this course for high school students in UAE. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
 - <b> High school/GCSE/A-Level Computer Science (2017-2022):</b> Perssonalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
