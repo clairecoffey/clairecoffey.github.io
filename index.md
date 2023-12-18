@@ -29,11 +29,11 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 ## <center>Teaching</center>
 - <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> I co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
-- <b> High school/GCSE/A-Level Computer Science (2017-2022):</b> Perssonalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
+- <b> High school Computer Science (2017-2022):</b> Personalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
 ## <center>Personal Interests</center>
 I am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). Elsewhere, I have been a soloist, lead vocalist, backing vocalist, and chorister in genres ranging from rock to classical! 
 
 I co-founded the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we built a community to grow fruit and vegetables sustainably, as well as donating to local charities. This included writing grant applications for funding, managing the day-to-day running of the allotment, and social media management. 
 
-I adore travelling, especially exploring nature and sustainable travel. My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art (freelance digital artist/graphic designer), and photography. I also train in [Kung Fu](https://www.fwckungfu.com/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I am social secretary. 
+I adore travelling, especially exploring nature. My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art (freelance digital artist), and photography. I also train in [Kung Fu](https://www.fwckungfu.com/) and row in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I am social secretary. 
