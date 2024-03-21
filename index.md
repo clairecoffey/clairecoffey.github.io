@@ -20,6 +20,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Multi objective journey optimisation</b>: As part of my R&D job, in conjunction with the University of Birmingham, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
 ## <center>Invited Talks</center>
+- <b> Cambridge Festival (2024):</b> I gave a talk for the public on <i> Artificial Intelligence: With great power comes great responsibility</i> as part of the [Cambridge Festival](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
 - <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I spoke on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
 - <b>Cambridge Festival (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 - <b>HDR UK Doctoral Immersion Week (2023):</b> Guest seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
