@@ -21,7 +21,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 
 ## <center>Invited Talks</center>
 - <b> International Day of Women in Statistics and Data Science (IDWSDS) Conference (2024):</b> I celebrated the IDWSDS by speaking about <i>Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>, as part of a session with [Data Science for Health Equity](https://www.datascienceforhealthequity.com/).
-- <b>European Conference on Machine Learning (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i> at the (ECML PKDD conference)[https://ecmlpkdd.org/] in Vilnius, Lithuania.
+- <b>European Conference on Machine Learning (ECML PKDD) (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i> at the [ECML PKDD conference](https://ecmlpkdd.org/) in Vilnius, Lithuania.
 - <b> Cambridge Festival (2024):</b> I gave a talk for the public on <i> Artificial Intelligence: With great power comes great responsibility</i> as part of the [Cambridge Festival](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
 - <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I spoke on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
 - <b>Cambridge Festival (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
