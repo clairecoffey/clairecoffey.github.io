@@ -16,10 +16,6 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Vehicle Route Guidance</b>: A patent for the method of determining a journey guidance policy, utlising my work on multi-objective route planning. Details [here]((https://patents.google.com/patent/US20190346275A1/en)). 
 - <b> Target Speed Optimisation </b>: A patent for a method of optimising vehicle speed at multiple resolutions of a journey, optimising for multiple objectives. Details [here](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
-| Title    | Authors | Venue | Type | Year | Tags | 
-| -------- | ------- | ----- | ---- | ---- | ---- |
-
-
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser</b>: As a statistical methods co-lead at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/), we organise seminars, run a reading group, and conduct research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
 - <b> Reinforcement learning for healthcare</b>: I worked on a project wherein I explored various reinforcement learning paradigms with a particular focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) supervised me on this project.
