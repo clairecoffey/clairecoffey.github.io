@@ -27,11 +27,11 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
   </tr>
   <tr>
     <td>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</td>
-    <td>E Whitfield, C Coffey, H Zhang, T Shi, X Wu, Q Li, H Wu</td>
+    <td>E Whitfield*, <b>C Coffey*</b>, H Zhang, T Shi, X Wu, Q Li, H Wu</td>
     <td>American Medical Informatics Association Annual Symposium</td>
     <td> Conference paper</td>
     <td>2021</td>
-    <td>[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic) <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> Presentation</a> </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic">Paper</a> <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> Presentation</a> </td>
   </tr>
 </table>
 
