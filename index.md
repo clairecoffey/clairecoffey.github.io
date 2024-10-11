@@ -67,8 +67,8 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
 - <b> Reinforcement learning for healthcare</b>: Explored various reinforcement learning paradigms with a focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. Supervised by [Chris Yau](https://cwcyau.github.io/authors/admin/).
-- <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. 
-- <b>Multi objective journey optimisation</b>: BSc thesis, in conjunction with the University of Birmingham and Inventive Cogs, created an AI journey optimisation system for autonomous vechicles. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
+- <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. supervised by [Neil Lawrence](https://inverseprobability.com/).
+- <b>Multi objective journey optimisation</b>: BSc thesis, created an AI journey optimisation system for autonomous vehicles with the University of Birmingham and Inventive Cogs. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
 ## <center>Invited Talks</center>
 - <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024)</b>: <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
@@ -80,17 +80,17 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: <i>Sharing my experiences in MedTech</i>.
 
 ## <center>Other Talks</center>
-- <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
+- <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
 - <b>American Medical Informatics Association Annual Symposium 2021:</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
 
 ## <center>Teaching</center>
-- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> I co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
+- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
 - <b> High school Computer Science (2017-2022):</b> Personalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
 ## <center>Personal Interests</center>
 Singing is one of my favourite hobbies, and I am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). Elsewhere, I have been a soloist, lead vocalist, backing vocalist, and chorister in genres ranging from rock to classical! 
 
-I am also passionate about sustainability, and in particular, local sustainability initiatives and growing food. I co-founded the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we built a community to grow fruit and vegetables sustainably, as well as donating to local charities. This included writing grant applications for funding, managing the day-to-day running of the allotment, and social media management. 
+I am also passionate about sustainability, and in particular, local sustainability initiatives and growing food. I co-founded the [University of Cambridge Allotment Society](https://cam-uni-allotment.github.io/), where we built a community to grow fruit and vegetables sustainably, and donate excess to local charities. This included writing grant applications for funding, managing the day-to-day running of the allotment, and social media management. 
 
-I love learning new things and meeting new people, and have taken up various hobbies to feed this curiosity. I adore travelling, especially exploring nature! My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art, and photography. I also train in [Fujian White Crane Kung Fu](https://www.fwckungfu.com/) and rowed in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I was social secretary and organised the inaugural international training camp for the club. 
+I love learning new things, meeting new people, and keeping active; I have taken up various hobbies to feed this curiosity. I adore travelling, especially exploring nature! My other hobbies include hiking, dancing (ex-UK freestyle display team), yoga, digital art, and photography. I also train in [Fujian White Crane Kung Fu](https://www.fwckungfu.com/) and rowed in [Clare Hall Boat Club](https://www.clarehall.cam.ac.uk/chbc/), where I was social secretary and organised the inaugural international training camp for the club. 
