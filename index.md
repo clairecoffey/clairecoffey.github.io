@@ -14,7 +14,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</b>: As part of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), I worked on a project with the NHS to improve the delivery of the [NHS Green Plan](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf), by specifying actionable solutions and shaping future policies. Our report can be read [here](https://www.repository.cam.ac.uk/handle/1810/335306).
 - <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>
 - <b>Vehicle Route Guidance</b>: A patent for the method of determining a journey guidance policy, utlising my work on multi-objective route planning. Details [here]((https://patents.google.com/patent/US20190346275A1/en)). 
-- <b> Target Speed Optimisation </b>: A patent for a method of optimising vehicle speed at multiple resolutions of a journey, optimising for multiple objectives. Details [here](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
+- <b> Target Speed Optimisation </b>: A patent for a method of optimising vehicle speed at multiple resolutions of a journey for multiple objectives. Details [here](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
 <table id="papers">
   <tr>
