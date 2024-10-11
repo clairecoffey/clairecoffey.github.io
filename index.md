@@ -1,5 +1,5 @@
 
-## <center>Academic Background</center>
+# <center>Academic Background</center>
 <img src="/clairecoffey_matriculation_photo.jpg" width="225" class="left-img"/>
 I am a final-year PhD Candidate in Health Data Science at the University of Cambridge, on the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) in [Inouye Lab](https://www.inouyelab.org/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/), [Mike Inouye](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-research-staff/michael-inouye/), and [Sam Lambert](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/samuel-lambert/). My thesis focuses on assessing and improving algorithmic fairness in clinical prediction models, including using polygenic risk scores.
 
