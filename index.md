@@ -10,12 +10,6 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked as an AI research consultant, where I joined a start-up company building artificial intelligence software for autonomous vehicles. Here, my research was on the implementation and optimisation of multi-objective route planning algorithms. For this work, I have two patents: [Vehicle Route Guidance](https://patents.google.com/patent/US20190346275A1/en) and [Target Speed Optimisation](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
 ## <center>Publications & Patents</center>
-- <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>: Working with COVID-19 data from Wuhan, China, I collaborated with Emma Whitfield on this project supervised by [Honghan Wu](https://iris.ucl.ac.uk/iris/browse/profile?upi=HWWUX46) to identify and predict nuanced subtypes of COVID-19 prognosis. It was published at the American Medical Informatics Association Annual Symposium 2021 and can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic) and my presentation can be found [here](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
-- <b>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</b>: As part of the [University of Cambridge ThinkLab](https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/), I worked on a project with the NHS to improve the delivery of the [NHS Green Plan](https://www.england.nhs.uk/greenernhs/wp-content/uploads/sites/51/2020/10/delivering-a-net-zero-national-health-service.pdf), by specifying actionable solutions and shaping future policies. Our report can be read [here](https://www.repository.cam.ac.uk/handle/1810/335306).
-- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>
-- <b>Vehicle Route Guidance</b>: A patent for the method of determining a journey guidance policy, utlising my work on multi-objective route planning. Details [here]((https://patents.google.com/patent/US20190346275A1/en)). 
-- <b> Target Speed Optimisation </b>: A patent for a method of optimising vehicle speed at multiple resolutions of a journey for multiple objectives. Details [here](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
-
 <table id="papers">
   <tr>
     <th>Title</th>
@@ -26,12 +20,44 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
     <th>Links</th>
   </tr>
   <tr>
+    <td>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</td>
+    <td>SC Ritchie, X Jiang, L Pennells, Y Xu, <b>C Coffey</b>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye</td>
+    <td>medRxiv preprint</td>
+    <td>Preprint</td>
+    <td>2023</td>
+    <td><a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2">Preprint</a></td>
+  </tr>
+  <tr>
+    <td>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</td>
+    <td><a href="https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/">University of Cambridge ThinkLab</a>: B Eldridge-Thomas, S Carden, C Bücker, B Davies, S Ajadi, <b>C Coffey</b>, A De Fauconberg, A Hourihane, B Klein, W Moody, I Sami, A Santaro, A Sobey, C Tobin, C Tsai, V Viisainen, Y Zou </td>
+    <td>University of Cambridge Apollo</td>
+    <td>Comissioned scientific report</td>
+    <td>2022</td>
+    <td><a href="https://www.repository.cam.ac.uk/items/e2c789b2-31e4-4f49-8976-c9982d03004b">Report</a></td>
+  </tr>
+  <tr>
     <td>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</td>
     <td>E Whitfield*, <b>C Coffey*</b>, H Zhang, T Shi, X Wu, Q Li, H Wu</td>
     <td>American Medical Informatics Association Annual Symposium</td>
     <td> Conference paper</td>
     <td>2021</td>
     <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic">Paper</a> <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> Presentation</a> </td>
+  </tr>
+  <tr>
+    <td>Vehicle Route Guidance</td>
+    <td>JA Kelly, M Lathbury, E Bacci, <b>C Coffey</b>, AS Bahra, D Parker, NA Hawes</td>
+    <td>US Patent</td>
+    <td> Patent
+    <td>2019</td>
+    <td><a href="https://patentimages.storage.googleapis.com/62/fc/6c/c566479be1ead1/US20190346275A1.pdf">Patent</a></td>
+  </tr>
+  <tr>
+    <td>Target Speed Optimisation</td>
+    <td>JA Kelly, CI Coffey, AS Bahra, M Lathbury, NA Hawes, D Parker</td>
+    <td>GB Patent</td>
+    <td>Patent</td>
+    <td>2018</td>
+    <td><a href="https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730">Patent</a></td>
   </tr>
 </table>
 
