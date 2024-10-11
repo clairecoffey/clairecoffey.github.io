@@ -71,8 +71,8 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Multi objective journey optimisation</b>: BSc thesis, in conjunction with the University of Birmingham and Inventive Cogs, created an AI journey optimisation system for autonomous vechicles. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
 ## <center>Invited Talks</center>
-- <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024):</b> <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
-- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024): <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
+- <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024)</b>: <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
+- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
 - <b> [HDR UK Cambridge Community Meeting](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) (2023):</b> <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
 - <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 - <b>[HDR UK Doctoral Immersion Week on Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html)(2023):</b> <i>Algorithmic fairness in cardiovascular disease risk prediction</i>. 
