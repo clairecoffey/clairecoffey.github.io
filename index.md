@@ -53,7 +53,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
   </tr>
   <tr>
     <td>Target Speed Optimisation</td>
-    <td>JA Kelly, CI Coffey, AS Bahra, M Lathbury, NA Hawes, D Parker</td>
+    <td>JA Kelly, <b>CI Coffey</b>, AS Bahra, M Lathbury, NA Hawes, D Parker</td>
     <td>GB Patent</td>
     <td>Patent</td>
     <td>2018</td>
