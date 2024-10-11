@@ -77,7 +77,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 - <b>[HDR UK Doctoral Immersion Week on Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html)(2023):</b> <i>Algorithmic fairness in cardiovascular disease risk prediction</i>. 
 - <b>[HDR UK Bimonthly Webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/) (2021) </b>: <i>Running and completing a PhD in the time of COVID </i> with [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/).
-- <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: Shared my experiences and research in the hope to inspire undergraduate students at UCL.
+- <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: <i>Sharing my experiences in MedTech</i>.
 
 ## <center>Other Talks</center>
 - <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
