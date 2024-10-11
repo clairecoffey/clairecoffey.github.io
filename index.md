@@ -10,6 +10,8 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 After my undergraduate degree, I worked as an AI research consultant, where I joined a start-up company building artificial intelligence software for autonomous vehicles. Here, my research was on the implementation and optimisation of multi-objective route planning algorithms. For this work, I have two patents: [Vehicle Route Guidance](https://patents.google.com/patent/US20190346275A1/en) and [Target Speed Optimisation](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
 ## <center>Publications & Patents</center>
+
+
 <table id="papers">
   <tr>
     <th>Title</th>
@@ -47,7 +49,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
     <td>Vehicle Route Guidance</td>
     <td>JA Kelly, M Lathbury, E Bacci, <b>C Coffey</b>, AS Bahra, D Parker, NA Hawes</td>
     <td>US Patent</td>
-    <td> Patent
+    <td> Patent </td>
     <td>2019</td>
     <td><a href="https://patentimages.storage.googleapis.com/62/fc/6c/c566479be1ead1/US20190346275A1.pdf">Patent</a></td>
   </tr>
