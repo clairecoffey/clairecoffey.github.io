@@ -12,6 +12,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 <h1> <center>Publications & Patents</center></h1>
 
 
+
 <table id="papers">
   <tr>
     <th>Title</th>
@@ -64,23 +65,23 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 </table>
 
 ## <center>Other Projects</center>
-- <b>Statistical Methods for Health Equity Organiser</b>: As a statistical methods co-lead at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/), we organise seminars, run a reading group, and conduct research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
-- <b> Reinforcement learning for healthcare</b>: I worked on a project wherein I explored various reinforcement learning paradigms with a particular focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. [Chris Yau](https://cwcyau.github.io/authors/admin/) supervised me on this project.
-- <b>Fairness and the bias-variance trade-off</b>: For my MPhil thesis, I explored bias and variance errors in ML automated decision making in the context of fairness, using data on criminal recidivism. 
-- <b>Multi objective journey optimisation</b>: In conjunction with the University of Birmingham and Inventive Cogs, I worked on a project to create an AI journey optimisation system for autonomous vechicles for for my final-year BSc project, supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
+- <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
+- <b> Reinforcement learning for healthcare</b>: Explored various reinforcement learning paradigms with a focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. Supervised by [Chris Yau](https://cwcyau.github.io/authors/admin/).
+- <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. 
+- <b>Multi objective journey optimisation</b>: BSc thesis, in conjunction with the University of Birmingham and Inventive Cogs, created an AI journey optimisation system for autonomous vechicles. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
 ## <center>Invited Talks</center>
-- <b> International Day of Women in Statistics and Data Science (IDWSDS) Conference (2024):</b> I celebrated the IDWSDS by speaking about <i>Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>, as part of a session with [Data Science for Health Equity](https://www.datascienceforhealthequity.com/).
-- <b> Cambridge Festival (2024):</b> I gave a talk for the public on <i> Artificial Intelligence: With great power comes great responsibility</i> as part of the [Cambridge Festival](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
-- <b> HDR UK Cambridge Community Meeting (2023):</b> [Here](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) I spoke on <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
-- <b>Cambridge Festival (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording here](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
-- <b>HDR UK Doctoral Immersion Week (2023):</b> Guest seminar on <i>Algorithmic fairness in cardiovascular disease risk prediction</i> at the HDR UK Doctoral Immersion Week on [Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html). 
-- <b>HDR UK Bimonthly Webinar (2021) </b>: I joined [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/) in conversation on running and completing a PhD in the time of COVID in the [HDR UK bimonthly webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/).
-- <b>UCL MedTech (2021)</b>: I spoke at the [UCL MedTech](https://uclmed.tech/) conference, to share my experiences and research in the hope to inspire undergraduate students at UCL.
+- <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024):</b> <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
+- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024): <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
+- <b> [HDR UK Cambridge Community Meeting](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) (2023):</b> <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
+- <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
+- <b>[HDR UK Doctoral Immersion Week on Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html)(2023):</b> <i>Algorithmic fairness in cardiovascular disease risk prediction</i>. 
+- <b>[HDR UK Bimonthly Webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/) (2021) </b>: <i>Running and completing a PhD in the time of COVID </i> with [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/).
+- <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: Shared my experiences and research in the hope to inspire undergraduate students at UCL.
 
 ## <center>Other Talks</center>
-- <b>European Conference on Machine Learning (ECML PKDD) (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i> at the [ECML PKDD conference](https://ecmlpkdd.org/) in Vilnius, Lithuania.
-- <b>American Medical Informatics Association Annual Symposium 2021:</b> Presented our paper on <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>; recording [here](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
+- <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> I spoke about my work on <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
+- <b>American Medical Informatics Association Annual Symposium 2021:</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
 
 ## <center>Teaching</center>
 - <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> I co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
