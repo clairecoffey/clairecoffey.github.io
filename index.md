@@ -16,7 +16,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 - <b>Vehicle Route Guidance</b>: A patent for the method of determining a journey guidance policy, utlising my work on multi-objective route planning. Details [here]((https://patents.google.com/patent/US20190346275A1/en)). 
 - <b> Target Speed Optimisation </b>: A patent for a method of optimising vehicle speed at multiple resolutions of a journey, optimising for multiple objectives. Details [here](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
-<table id="customers">
+<table id="papers">
   <tr>
     <th>Title</th>
     <th>Authors</th>
@@ -32,7 +32,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
     <td>2021</td>
     <td>(Paper)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic] (Presentation)[https://www.youtube.com/watch?v=WT9sfyTnmuE]</td>
   </tr>
-<\table>
+</table>
 
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser</b>: As a statistical methods co-lead at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/), we organise seminars, run a reading group, and conduct research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
