@@ -83,7 +83,7 @@ I especially love the collaborative elements of research - feel free to get in t
 
 ## <center>Other Talks</center>
 - <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
-- <b>American Medical Informatics Association Annual Symposium 2021:</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
+- <b>[American Medical Informatics Association Annual Symposium](https://amia.org/education-events/annual-symposium) (2021):</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
 
 ## <center>Teaching</center>
 - <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
