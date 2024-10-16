@@ -69,7 +69,7 @@ I especially love the collaborative elements of research - feel free to get in t
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
 - <b> Reinforcement learning for healthcare</b>: Explored various reinforcement learning paradigms with a focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. Supervised by [Chris Yau](https://cwcyau.github.io/authors/admin/).
-- <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. supervised by [Neil Lawrence](https://inverseprobability.com/).
+- <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. Supervised by [Neil Lawrence](https://inverseprobability.com/).
 - <b>Multi objective journey optimisation</b>: BSc thesis, created an AI journey optimisation system for autonomous vehicles with the University of Birmingham and Inventive Cogs. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
 ## <center>Invited Talks</center>
