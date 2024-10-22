@@ -72,18 +72,18 @@ I especially love the collaborative elements of research - feel free to get in t
 - <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. Supervised by [Neil Lawrence](https://inverseprobability.com/).
 - <b>Multi objective journey optimisation</b>: BSc thesis, created an AI journey optimisation system for autonomous vehicles with the University of Birmingham and Inventive Cogs. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
 
-## <center>Invited Talks</center>
+## <center>Academic Talks</center>
 - <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024)</b>: <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
-- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
+- <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
 - <b> [HDR UK Cambridge Community Meeting](https://www.hdruk.ac.uk/events/hdr-uk-community-meetings/) (2023):</b> <i>Understanding and Improving Fairness in Medical Risk Prediction</i>. 
-- <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
-- <b>[HDR UK Doctoral Immersion Week on Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html)(2023):</b> <i>Algorithmic fairness in cardiovascular disease risk prediction</i>. 
+- <b>[HDR UK Doctoral Immersion Week on Fairness in healthcare data modelling](https://cwcyau.github.io/hdrukphdcourses/courses/fairness.html)(2023):</b> <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
+- <b>[American Medical Informatics Association Annual Symposium](https://amia.org/education-events/annual-symposium) (2021):</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
 - <b>[HDR UK Bimonthly Webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/) (2021) </b>: <i>Running and completing a PhD in the time of COVID </i> with [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/).
 - <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: <i>Sharing my experiences in MedTech</i>.
 
-## <center>Other Talks</center>
-- <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
-- <b>[American Medical Informatics Association Annual Symposium](https://amia.org/education-events/annual-symposium) (2021):</b> <i>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</i>. [Recording](https://www.youtube.com/watch?v=WT9sfyTnmuE). 
+## <center>Public Talks</center>
+- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
+- <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 
 ## <center>Teaching</center>
 - <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
