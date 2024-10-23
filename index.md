@@ -12,9 +12,8 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Twitter/X](https://x.com/claireicoffey) or e-mail cic31[at]cam.ac.uk! 
 
 <h1> <center>Publications & Patents</center></h1>
-- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>
-<i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>.  
-medRxiv <a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2"> preprint </a> (2023)
+- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>  
+<i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>. medRxiv <a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2"> preprint </a> (2023)
 - <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>  
 <i>E Whitfield \*, <u>C Coffey *</u>, H Zhang, T Shi, X Wu, Q Li, H Wu (\* = equal contribution)</i>. American Medical Informatics Association Annual Symposium, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8861682/">conference paper</a>, <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> presentation recording</a> (2021)
 - <b>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</b>  
