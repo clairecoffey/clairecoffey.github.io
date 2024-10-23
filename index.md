@@ -38,9 +38,9 @@ University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/
 - <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: <i>Sharing my experiences in MedTech</i>.
 
 ## <center>Public Engagement & Science Communication </center>
-- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
-- <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
-- <b> [Blog posts](https://medium.com/@clairecoffey-71283) </b>.
+- <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: Public talk on <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
+- <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
+- <b> [Blog posts](https://medium.com/@clairecoffey-71283)</b>.
   
 I am keen to be involved in more science communication work, as I believe public engagement should be a core part of research. 
 
