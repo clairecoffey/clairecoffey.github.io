@@ -37,20 +37,28 @@ University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/
 - <b>[HDR UK Bimonthly Webinar](https://www.hdruk.ac.uk/bimonthly-one-institute-webinars/) (2021) </b>: <i>Running and completing a PhD in the time of COVID </i> with [Peter Diggle](https://www.lancaster.ac.uk/staff/diggle/).
 - <b>[UCL MedTech Conference](https://uclmed.tech/) (2021)</b>: <i>Sharing my experiences in MedTech</i>.
 
-## <center>Public Talks</center>
+## <center>Public Engagement & Science Communication </center>
 - <b> [Cambridge Festival](https://www.festival.cam.ac.uk/) (2024)</b>: <i> Artificial Intelligence: With great power comes great responsibility</i>. [Abstract](https://www.festival.cam.ac.uk/events/artificial-intelligence-great-power-comes-great-responsibility).
 - <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
+- <b> [Blog posts](https://medium.com/@clairecoffey-71283) </b>.
+  
+I am keen to be involved in more science communication work, as I believe public engagement should be a core part of research. 
 
 ## <center>Teaching</center>
 - <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
 - <b> High school Computer Science (2017-2022):</b> Personalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
+## <center>Academic Activities</center>
+- <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
+- <b>Journal manuscript reviewer</b>: For <i>Science</i> and <i>European Heart Journal</i> (collaborative lab reviews). 
+
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
 - <b> Reinforcement learning for healthcare</b>: Explored various reinforcement learning paradigms with a focus on offline RL and how this can be applied to the problem of multimorbidity trajectory modelling. Supervised by [Chris Yau](https://cwcyau.github.io/authors/admin/).
 - <b>Fairness and the bias-variance trade-off</b>: MPhil thesis, exploring bias and variance errors in ML automated decision making in the context of algorithmic fairness, using data on criminal recidivism. Supervised by [Neil Lawrence](https://inverseprobability.com/).
-- <b>Multi objective journey optimisation</b>: BSc thesis, created an AI journey optimisation system for autonomous vehicles with the University of Birmingham and Inventive Cogs. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html). 
+- <b>Multi objective journey optimisation</b>: BSc thesis, created an AI journey optimisation system for autonomous vehicles with the University of Birmingham and Inventive Cogs. Supervised by [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html).
+- <b>Risk communication</b>: Building predictive models to reduce health inequities also requires adequate communication and presentation of risk to patients. I am therefore involved a project on [evaluating disease risk communication tools](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=334794) led by [Owen Taylor](https://cosoc.com/OwenATaylor). 
 
 ## <center>Personal Interests</center>
 Singing is one of my favourite hobbies, and I am a member of [Clare Hall Choir](https://www.clarehall.cam.ac.uk/music/). Elsewhere, I have been a soloist, lead vocalist, backing vocalist, and chorister in genres ranging from rock to classical! 
