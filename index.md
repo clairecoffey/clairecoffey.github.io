@@ -12,59 +12,11 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 I especially love the collaborative elements of research - feel free to get in touch for a chat via [Twitter/X](https://x.com/claireicoffey) or e-mail cic31[at]cam.ac.uk! 
 
 <h1> <center>Publications & Patents</center></h1>
-
-
-
-<table id="papers">
-  <tr>
-    <th>Title</th>
-    <th>Authors</th>
-    <th>Venue</th>
-    <th>Type</th>
-    <th>Year</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</td>
-    <td>SC Ritchie, X Jiang, L Pennells, Y Xu, <b>C Coffey</b>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye</td>
-    <td>medRxiv preprint</td>
-    <td>Preprint</td>
-    <td>2023</td>
-    <td><a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2">Preprint</a></td>
-  </tr>
-  <tr>
-    <td>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</td>
-    <td><a href="https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/">University of Cambridge ThinkLab</a>: B Eldridge-Thomas, S Carden, C Bücker, B Davies, S Ajadi, <b>C Coffey</b>, A De Fauconberg, A Hourihane, B Klein, W Moody, I Sami, A Santaro, A Sobey, C Tobin, C Tsai, V Viisainen, Y Zou </td>
-    <td>University of Cambridge Apollo</td>
-    <td>Comissioned scientific report</td>
-    <td>2022</td>
-    <td><a href="https://www.repository.cam.ac.uk/items/e2c789b2-31e4-4f49-8976-c9982d03004b">Report</a></td>
-  </tr>
-  <tr>
-    <td>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</td>
-    <td>E Whitfield*, <b>C Coffey*</b>, H Zhang, T Shi, X Wu, Q Li, H Wu</td>
-    <td>American Medical Informatics Association Annual Symposium</td>
-    <td> Conference paper</td>
-    <td>2021</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic">Paper</a> <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> Presentation</a> </td>
-  </tr>
-  <tr>
-    <td>Vehicle Route Guidance</td>
-    <td>JA Kelly, M Lathbury, E Bacci, <b>C Coffey</b>, AS Bahra, D Parker, NA Hawes</td>
-    <td>US Patent</td>
-    <td> Patent </td>
-    <td>2019</td>
-    <td><a href="https://patentimages.storage.googleapis.com/62/fc/6c/c566479be1ead1/US20190346275A1.pdf">Patent</a></td>
-  </tr>
-  <tr>
-    <td>Target Speed Optimisation</td>
-    <td>JA Kelly, <b>CI Coffey</b>, AS Bahra, M Lathbury, NA Hawes, D Parker</td>
-    <td>GB Patent</td>
-    <td>Patent</td>
-    <td>2018</td>
-    <td><a href="https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730">Patent</a></td>
-  </tr>
-</table>
+- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>, <i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>, medRxiv <a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2"> preprint </a> (2023)
+- <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>, <i>E Whitfield*, <u>C Coffey*</u>, H Zhang, T Shi, X Wu, Q Li, H Wu (* = equal contribution)</i>, American Medical Informatics Association Annual Symposium <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8861682/">conference paper</a>. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8861682/?report=classic">Paper</a> <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> Presentaion recording</a> (2021)
+- <b>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</b>, <i> <a href="https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/">University of Cambridge ThinkLab</a>: B Eldridge-Thomas, S Carden, C Bücker, B Davies, S Ajadi, <u>C Coffey</u>, A De Fauconberg, A Hourihane, B Klein, W Moody, I Sami, A Santaro, A Sobey, C Tobin, C Tsai, V Viisainen, Y Zou </i>, University of Cambridge Apollo, commissioned scientific <a href="https://www.repository.cam.ac.uk/items/e2c789b2-31e4-4f49-8976-c9982d03004b">report</a> (2022)
+- <b>Vehicle Route Guidance</b>, <i>JA Kelly, M Lathbury, E Bacci, <b>C Coffey</b>, AS Bahra, D Parker, NA Hawes</i>, US <a href="https://patentimages.storage.googleapis.com/62/fc/6c/c566479be1ead1/US20190346275A1.pdf">patent</a> (2019)
+- <b>Target Speed Optimisation</b>, <i>JA Kelly, <u>C Coffey</u>, AS Bahra, M Lathbury, NA Hawes, D Parker</i>, GB <a href="https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730">patent</a> (2018)
 
 ## <center>Other Projects</center>
 - <b>Statistical Methods for Health Equity Organiser (2021-2024)</b>: [Data Science for Health Equity](https://www.datascienceforhealthequity.com/). Organising seminars, running a reading group, and conducting research on statistical methods for health equity. We run a yearly symposium on [Statistical Methods for Health Equity](https://www.datascienceforhealthequity.com/event-details/ucl-symposium-on-statistical-methods-for-health-equity).
