@@ -16,7 +16,7 @@ I especially love the collaborative elements of research, learning from people f
 - <b>December 2024:</b> Submitted my PhD thesis, <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
 - <b>December 2024:</b> PPIE report released, <a href="https://zenodo.org/records/14503478"> Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</a>
 - <b>October 2024:</b> Spoke at the <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> conference on <i>Data Science for Health Equity</i>.
-- <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference about my PhD Research on <i>Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
+- <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
 - <b>June 2024:</b> Attended <a href="https://facctconference.org/">FAccT</a> Conference in Rio de Janeiro.
 
 <h1> <center>Publications & Patents</center></h1>
