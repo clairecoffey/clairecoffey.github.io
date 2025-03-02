@@ -11,15 +11,10 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 
 I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Twitter/X](https://x.com/claireicoffey) or e-mail cic31[at]cam.ac.uk! 
 
-<h1><center>News and Updates</center></h1>
-<div style="overflow: auto; height:200pt; width:100%;">
+<h1><center>News and Updates</center></h1>  
 - <b>February 2025:</b> Joined Helmholtz Munich as a Research Scientist in AI & Environmental health.
-  
 - <b>December 2024:</b> Submitted my PhD thesis, <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
-  
 - <b>December 2024:</b> Our PPIE report is released, <i>Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</i>
-</div>
-&nbsp;
 
 <h1> <center>Publications & Patents</center></h1>
 - <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>  
