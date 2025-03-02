@@ -12,7 +12,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social) or e-mail cic31[at]cam.ac.uk! 
 
 <h1><center>Recent News</center></h1>  
-- <b>February 2025:</b> Joined Helmholtz Munich as a Research Scientist in AI & Environmental Health.
+- <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
 - <b>December 2024:</b> Submitted my PhD thesis, <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
 - <b>December 2024:</b> PPIE report released, <a href="https://zenodo.org/records/14503478"> Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</a>
 - <b>October 2024:</b> Spoke at the <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> conference on <i>Data Science for Health Equity</i>.
