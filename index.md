@@ -13,8 +13,8 @@ I especially love the collaborative elements of research, learning from people f
 
 <h1><center>News and Updates</center></h1>
 <div style="overflow: auto; height:150pt; width:100%;">
-* **February 2025:** Joined Helmholtz Munich as a researcher in AI & Environmental health, where I am investigating the relationship between the environment and health using machine learning. 
-* **December 2024:** Submitted my PhD Thesis, titled: <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i> 
+- <b>February 2025:</b> Joined Helmholtz Munich as a researcher in AI & Environmental health, where I am investigating the relationship between the environment and health using machine learning. 
+- <b>December 2024:</b> Submitted my PhD Thesis, titled: <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i> 
 </div>
 
 <h1> <center>Publications & Patents</center></h1>
