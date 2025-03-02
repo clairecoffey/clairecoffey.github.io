@@ -17,6 +17,7 @@ I especially love the collaborative elements of research, learning from people f
 - <b>December 2024:</b> Submitted my PhD thesis, <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i> 
 - <b>December 2024:</b> Our PPIE report is released, <i>Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</i>
 </div>
+&nbsp;
 
 <h1> <center>Publications & Patents</center></h1>
 - <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>  
