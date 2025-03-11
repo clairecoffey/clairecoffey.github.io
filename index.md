@@ -16,6 +16,7 @@ I especially love the collaborative elements of research, learning from people f
 - <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
 - <b>December 2024:</b> Submitted PhD thesis on <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
 - <b>December 2024:</b> <a href="https://zenodo.org/records/14503478"> PPIE report released </a> on <i>Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</i>
+- <b>December 2024:</b> My poster was accepted for presentation at <a href="https://appliedmldays.org/"> AMLD EPFL 2025 </a> on <i>Algorithmic Fairness in CVD risk prediction models.</i>
 - <b>October 2024:</b> Spoke at the <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> conference on <i>Data science for health equity</i>.
 - <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
 - <b>June 2024:</b> Attended <a href="https://facctconference.org/">FAccT</a> conference in Rio de Janeiro.
