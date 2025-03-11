@@ -9,7 +9,7 @@ I completed my first-class BSc in Computer Science at the University of Birmingh
 
 After my undergraduate degree, I worked as an AI research consultant, where I joined a start-up company building artificial intelligence software for autonomous vehicles. Here, my research was on the implementation and optimisation of multi-objective route planning algorithms. For this work, I have two patents: [Vehicle Route Guidance](https://patents.google.com/patent/US20190346275A1/en) and [Target Speed Optimisation](https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730).
 
-I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social) or e-mail cic31[at]cam.ac.uk! 
+I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail cic31[at]cam.ac.uk! 
 
 <h1><center>Recent News</center></h1>  
 - <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
