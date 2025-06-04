@@ -1,9 +1,9 @@
 
 # <center>Academic Background</center>
 <img src="/clairecoffey_matriculation_photo.jpg" width="225" class="left-img"/>
-I recently completed my PhD in Health Data Science at the University of Cambridge. My research bridged together the fields of machine learning and epidemiology, and my thesis was titled "Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness". I was part of the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/staff/professor-angela-wood), [Mike Inouye](https://www.phpc.cam.ac.uk/staff/professor-michael-inouye), and [Sam Lambert](https://www.phpc.cam.ac.uk/staff/dr-samuel-lambert). I am currently a Research Scientist at Helmholtz Munich in AI & Environmental Health, where I am using machine learning to better understand relationships between the environment and health outcomes, jointly considering algorithmic fairness. 
+I am a postdoctoral research scientist at Helmholtz Munich in AI & Environmental Health, where I am using machine learning to better understand relationships between the environment and health outcomes, jointly considering health equity and algorithmic fairness. I completed my PhD in Health Data Science at the University of Cambridge, bridging together the fields of machine learning and epidemiology with my thesis on "Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness". I was part of the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/), supervised by [Angela Wood](https://www.phpc.cam.ac.uk/staff/professor-angela-wood), [Mike Inouye](https://www.phpc.cam.ac.uk/staff/professor-michael-inouye), and [Sam Lambert](https://www.phpc.cam.ac.uk/staff/dr-samuel-lambert). 
 
-Before my PhD, I was a [DeepMind Scholar](https://www.cst.cam.ac.uk/deepmind-scholars-cambridge) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), supervised by [Neil Lawrence](https://inverseprobability.com/). I specialised in AI and ML courses, and my thesis topic was "Fairness and the bias-variance trade-off". I was a member of [Clare Hall](https://www.clarehall.cam.ac.uk/) College throughout my time in Cambridge.
+Before my PhD, I was a [DeepMind Scholar](https://www.cst.cam.ac.uk/deepmind-scholars-cambridge) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), supervised by [Neil Lawrence](https://inverseprobability.com/). I specialised in AI and ML courses, and my thesis topic was "Fairness and the bias-variance trade-off". 
 
 I completed my first-class BSc in Computer Science at the University of Birmingham, specialising in AI, with visiting student placements at the University of British Columbia and the University of Waterloo.
 
@@ -12,6 +12,7 @@ After my undergraduate degree, I worked as an AI research consultant, where I jo
 I especially love the collaborative elements of research, learning from people from with different perspectives - feel free to get in touch for a chat via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail cic31[at]cam.ac.uk! 
 
 <h1><center>Recent News</center></h1>  
+- <b>June 2025:</b> Presented my poster on <i>AI-driven environmental epidemiology: a generalisable framework to predict cardiovascular health using fair and explainable machine learning</i> at the Helmholtz AI conference.  
 - <b>March 2025:</b> Passed my PhD viva with minor corrections! Thanks to my examiners Niels Peek and Allan Tucker for an insightful viva. 
 - <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
 - <b>December 2024:</b> Submitted PhD thesis on <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
@@ -19,13 +20,11 @@ I especially love the collaborative elements of research, learning from people f
 - <b>December 2024:</b> My poster was accepted for presentation at <a href="https://appliedmldays.org/"> AMLD EPFL 2025 </a> on <i>Algorithmic Fairness in CVD risk prediction models.</i>
 - <b>October 2024:</b> Spoke at the <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> conference on <i>Data science for health equity</i>.
 - <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
-- <b>April 2024:</b> Spoke at the <a href="https://www.datascienceforhealthequity.com/themes/statistical-methods">Data Science for Health Equity Statistical Methods</a> meetup on <i>Algorithmic fairness in clinical risk prediction</i>.
-- <b>March 2024:</b> Spoke at the <a href="https://www.festival.cam.ac.uk/">Cambridge Festival</a> on <i>Artificial Intelligence: with great power comes great responsibility</i>.
 
 <h1> <center>Publications & Patents</center></h1>
 - <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>  
 <i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>  
-<a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v2">medRxiv preprint </a> (2023)
+<a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v3">medRxiv preprint </a> (2025)
 - <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>  
 <i>E Whitfield \*, <u>C Coffey *</u>, H Zhang, T Shi, X Wu, Q Li, H Wu (\* = equal contribution)</i>  
 American Medical Informatics Association Annual Symposium <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8861682/">conference paper</a>, <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> presentation recording</a> (2021)
@@ -53,10 +52,10 @@ University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/
 - <b>[Cambridge Festival](https://www.festival.cam.ac.uk/) (2023)</b>: Public talk on <i>Fairness in medical risk prediction algorithms</i>. [Recording](https://www.youtube.com/watch?v=Zo3vSvnAcx4&list=PL7VR7iDFpJEEnKx3htCOGwqCeJMQ5aJ52&index=2).
 - <b> [Blog posts](https://medium.com/@clairecoffey-71283)</b>.
   
-I am keen to be involved in more science communication work, as I believe public engagement should be a core part of research. 
+I am keen to be involved in more science communication work, as I believe public engagement is a core part of doing useful research. 
 
 ## <center>Teaching</center>
-- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course for high school students. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
+- <b> Artificial Intelligence: Theory, Responsibility, and Sustainability (2023):</b> Co-designed and delivered this course. My sections focused on on AI for sustainable development, climate change, and AI in the Global South. 
 - <b> MPhil Population Health Sciences (2023):</b> Teaching assistant on the Advanced Statistics for Epidemiology module.
 - <b> High school Computer Science (2017-2022):</b> Personalised tutoring for GCSE and A-Level; teaching computer science in schools years 7-13.
 
