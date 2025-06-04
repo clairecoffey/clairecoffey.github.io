@@ -29,8 +29,7 @@ I especially love the collaborative elements of research, learning from people f
 <i>E Whitfield \*, <u>C Coffey *</u>, H Zhang, T Shi, X Wu, Q Li, H Wu (\* = equal contribution)</i>  
 American Medical Informatics Association Annual Symposium <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8861682/">conference paper</a>, <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> presentation recording</a> (2021)
 - <b>Achieving Net Zero within the NHS: System-wide transition to greener, sustainable care</b>  
-<i> <a href="https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/">University of Cambridge ThinkLab</a>: B Eldridge-Thomas, S Carden, C Bücker, B Davies, S Ajadi, <u>C Coffey</u>, A De Fauconberg, A Hourihane, B Klein, W Moody, I Sami, A Santaro, A Sobey, C Tobin, C Tsai, V Viisainen, Y Zou </i>  
-University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/e2c789b2-31e4-4f49-8976-c9982d03004b">commissioned scientific report</a> (2022)
+<i> <a href="https://www.thinklab.strategic-partnerships.admin.cam.ac.uk/">University of Cambridge ThinkLab</a>: B Eldridge-Thomas, S Carden, C Bücker, B Davies, S Ajadi, <u>C Coffey</u>, A De Fauconberg, A Hourihane, B Klein, W Moody, I Sami, A Santaro, A Sobey, C Tobin, C Tsai, V Viisainen, Y Zou </i> University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/e2c789b2-31e4-4f49-8976-c9982d03004b">commissioned scientific report</a> (2022)
 - <b>Vehicle Route Guidance</b>  
 <i>JA Kelly, M Lathbury, E Bacci, <u>C Coffey</u>, AS Bahra, D Parker, NA Hawes</i>  
 <a href="https://patentimages.storage.googleapis.com/62/fc/6c/c566479be1ead1/US20190346275A1.pdf">US patent</a> (2019)
