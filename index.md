@@ -16,6 +16,8 @@ Earlier in my career, I worked as an AI research consultant in a start-up enviro
 I particularly value the collaborative side of research and enjoy connecting with people from diverse disciplines. Feel free to get in touch via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail clairecoffey[at]live.co.uk! 
 
 <h1><center>Recent News</center></h1>  
+- <b>September 2025:</b>
+- <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis which is now also available online [here](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
 - <b>June 2025:</b> Presented my poster on <i>AI-driven environmental epidemiology: a generalisable framework to predict cardiovascular health using fair and explainable machine learning</i> at the Helmholtz AI conference.  
 - <b>March 2025:</b> Passed my PhD viva with minor corrections! Thanks to my examiners Niels Peek and Allan Tucker for an insightful viva. 
 - <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
@@ -26,7 +28,8 @@ I particularly value the collaborative side of research and enjoy connecting wit
 - <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
 
 <h1> <center>Publications & Patents</center></h1>
-- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b>  
+- <b>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction</b><i><u>C Coffey</u>, SC Ritchie, L Pennells, AM Wood, M Inouye, SA Lambert </i> 
+- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b> 
 <i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>  
 <a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v3">medRxiv preprint </a> (2025)
 - <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>  
