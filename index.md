@@ -3,8 +3,10 @@
 <img src="/clairecoffey_matriculation_photo.jpg" width="225" class="left-img"/>
 I am an Independent Research and Data Science Consultant specialising in responsible and explainable AI for health and environmental applications. My work combines machine learning, clinical data, and population research to improve the fairness, interpretability, and real-world impact of predictive models.
 <br> 
-<center><b>I work at the intersection of AI, health, and data: collaborating with researchers, clinicians, and organisations to build fair and explainable models. </b></center><br>
-
+<blockquote style="font-style: italic; font-weight: 500; color: #444;">
+I work at the intersection of AI, health, and data: collaborating with researchers, clinicians, and organisations to build fair and explainable models.
+</blockquote>
+<br>
 I recently completed a postdoctoral research position at [Helmholtz Munich](https://www.helmholtz-munich.de/), where I developed explainable machine learning frameworks for environmental health research. Before that, I completed my PhD in Health Data Science at the University of Cambridge on the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/study-and-train/study/phd/hdr-uk-turing-wellcome-phd-programme-in-health-data-science/), bridging machine learning and epidemiology in my thesis on <i>Evaluating and enhancing cardiovascular disease risk prediction with algorithmic fairness</i>. I was supervised by [Angela Wood](https://www.phpc.cam.ac.uk/staff/professor-angela-wood), [Mike Inouye](https://www.phpc.cam.ac.uk/staff/professor-michael-inouye), and [Sam Lambert](https://www.phpc.cam.ac.uk/staff/dr-samuel-lambert).
 
 Prior to my PhD, I was a [DeepMind Scholar](https://www.cst.cam.ac.uk/deepmind-scholars-cambridge) in MPhil Advanced Computer Science at the [Cambridge Computer Laboratory](https://www.cst.cam.ac.uk/), supervised by [Neil Lawrence](https://inverseprobability.com/). My thesis explored <i>Fairness and the bias–variance trade-off</i> in machine learning models used for automated decision-making. I hold a first-class BSc in Computer Science from the University of Birmingham, where I specialised in AI and completed visiting placements at the Universities of British Columbia and Waterloo.
