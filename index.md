@@ -28,7 +28,7 @@ I particularly value the collaborative side of research and enjoy connecting wit
 - <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
 
 ## <center>Publications & Patents</center>
-- <b>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction</b><i><u>C Coffey</u>, SC Ritchie, L Pennells, AM Wood, M Inouye, SA Lambert </i> 
+- <b>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction</b> <i><u>C Coffey</u>, SC Ritchie, L Pennells, AM Wood, M Inouye, SA Lambert </i> <a href="https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1">medRxiv preprint </a> (2025)
 - <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b> 
 <i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>  
 <a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v3">medRxiv preprint </a> (2025)
