@@ -211,7 +211,6 @@ a {
   }
 
   h1,
-  h2,
   h3,
   h4,
   h5,
@@ -221,6 +220,16 @@ a {
     font-weight: bold;
     color: #4270ab;
     font-size: 30px;
+    border-bottom: 1px solid #ffb8aa;
+  }
+
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    color: #4270ab;
+    font-size: 26px;
+    border-top: 1px solid #ffb8aa;
     border-bottom: 1px solid #ffb8aa;
   }
   
