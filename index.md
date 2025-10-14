@@ -16,8 +16,8 @@ Earlier in my career, I worked as an AI research consultant in a start-up enviro
 I particularly value the collaborative side of research and enjoy connecting with people from diverse disciplines. Feel free to get in touch via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail clairecoffey[at]live.co.uk! 
 
 ## <center>Recent News</center>
-- <b>September 2025:</b>
-- <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis which is now also available online [here](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
+- <b>September 2025:</b> A preprint of my paper <i>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction </i> is now available [here](https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1).
+- <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis, which is available online [here](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
 - <b>June 2025:</b> Presented my poster on <i>AI-driven environmental epidemiology: a generalisable framework to predict cardiovascular health using fair and explainable machine learning</i> at the Helmholtz AI conference.  
 - <b>March 2025:</b> Passed my PhD viva with minor corrections! Thanks to my examiners Niels Peek and Allan Tucker for an insightful viva. 
 - <b>February 2025:</b> Joined <a href="https://www.helmholtz-munich.de/en/">Helmholtz Munich</a> as a Research Scientist in AI & Environmental Health.
