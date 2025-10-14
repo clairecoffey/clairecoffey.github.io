@@ -1,6 +1,6 @@
 
 # <center>Research & Professional Background</center>
-<img src="/clairecoffey_matriculation_photo.jpg" width="225" class="left-img"/>
+<img src="/clairecoffey_matriculation_photo.jpg" width="220" class="left-img"/>
 I am an Independent Research and Data Science Consultant specialising in responsible and explainable AI for health and environmental applications. My work combines machine learning, clinical data, and population research to improve the fairness, interpretability, and real-world impact of predictive models.
 <br> 
 <blockquote style="font-style: italic; font-weight: 500; color: #444;">
