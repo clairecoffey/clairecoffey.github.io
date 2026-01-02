@@ -2,10 +2,6 @@
 ## <center>Research & Professional Background</center>
 <img src="/clairecoffey_matriculation_photo.jpg" width="200" class="left-img"/>
 I am an Independent Research and Data Science Consultant specialising in responsible and explainable AI for health and environmental applications. My work combines machine learning, clinical data, and population research to improve the fairness, interpretability, and real-world impact of predictive models.
-<br> 
-<blockquote style="font-style: italic; font-weight: 500; color: #444;">
-I work at the intersection of AI, health, and data: collaborating with researchers, clinicians, and organisations to build fair and explainable models.
-</blockquote>
 
 I recently completed a postdoctoral research position at [Helmholtz Munich](https://www.helmholtz-munich.de/), where I developed explainable machine learning frameworks for environmental health research. Before that, I completed my PhD in Health Data Science at the University of Cambridge on the [Health Data Research UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/study-and-train/study/phd/hdr-uk-turing-wellcome-phd-programme-in-health-data-science/), bridging machine learning and epidemiology in my thesis on <i>Evaluating and enhancing cardiovascular disease risk prediction with algorithmic fairness</i>. I was supervised by [Angela Wood](https://www.phpc.cam.ac.uk/staff/professor-angela-wood), [Mike Inouye](https://www.phpc.cam.ac.uk/staff/professor-michael-inouye), and [Sam Lambert](https://www.phpc.cam.ac.uk/staff/dr-samuel-lambert). I remain a Visiting Researcher at the University of Cambridge.
 
@@ -16,6 +12,8 @@ Earlier in my career, I worked as an AI research consultant in a start-up enviro
 I particularly value the collaborative side of research and enjoy connecting with people from diverse disciplines. Feel free to get in touch via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail clairecoffey[at]live.co.uk! 
 
 ## <center>Recent News</center>
+- December 2025:</b> Our [paper](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858) <i>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction </i> was published in the European Heart Journal. 
+- <b>October 2025:</b> I attended my graduation ceremony at the University of Cambridge - I am now officially a doctor!
 - <b>September 2025:</b> A [preprint of our paper](https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1) <i>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction </i> was released.
 - <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis, also [available online](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
 - <b>June 2025:</b> Presented my [poster](https://zenodo.org/records/17139978) on <i>AI-driven environmental epidemiology: a generalisable framework to predict cardiovascular health using fair and explainable machine learning</i> at the Helmholtz AI conference. 
@@ -24,8 +22,7 @@ I particularly value the collaborative side of research and enjoy connecting wit
 - <b>December 2024:</b> Submitted PhD thesis on <i>Evaluating and enhancing cardiovascular disease risk prediction using algorithmic fairness.</i>
 - <b>December 2024:</b> <a href="https://zenodo.org/records/14503478"> PPIE report released </a> on <i>Equitable, trustworthy and safe research in healthcare technology, data and artificial intelligence: an international dialogue.</i>
 - <b>December 2024:</b> My poster was accepted for presentation at <a href="https://appliedmldays.org/"> AMLD EPFL 2025 </a> on <i>Algorithmic Fairness in CVD risk prediction models.</i>
-- <b>October 2024:</b> Spoke at the <a href="https://www.idwsds.org/">International Day of Women in Statistics and Data Science</a> conference on <i>Data science for health equity</i>.
-- <b>September 2024:</b> Spoke at <a href="https://ecmlpkdd.org/">ECML PKDD</a> conference on <i>Algorithmic fairness in cardiovascular disease risk prediction</i>.
+
 
 ## <center>Publications & Patents</center>
 - <b>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction</b> <i><u>C Coffey</u>, SC Ritchie, L Pennells, AM Wood, M Inouye, SA Lambert </i> <a href="https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1">medRxiv preprint </a> (2025)
