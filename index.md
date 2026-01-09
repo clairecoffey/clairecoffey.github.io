@@ -13,7 +13,7 @@ I particularly value the collaborative side of research and enjoy connecting wit
 
 ## <center>Recent News</center>
 - <b>December 2025:</b> Our [paper](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858) <i>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction </i> was published in the European Heart Journal. 
-- <b>October 2025:</b> I attended my graduation ceremony at the University of Cambridge - I am now officially a doctor!
+- <b>October 2025:</b> I attended my graduation ceremony at the University of Cambridge - I am now officially a PhD!
 - <b>September 2025:</b> A [preprint of our paper](https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1) <i>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction </i> was released.
 - <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis, also [available online](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
 - <b>June 2025:</b> Presented my [poster](https://zenodo.org/records/17139978) on <i>AI-driven environmental epidemiology: a generalisable framework to predict cardiovascular health using fair and explainable machine learning</i> at the Helmholtz AI conference. 
