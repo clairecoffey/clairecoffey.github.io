@@ -12,7 +12,8 @@ Earlier in my career, I worked as an AI research consultant in a start-up enviro
 I particularly value the collaborative side of research and enjoy connecting with people from diverse disciplines. Feel free to get in touch via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail clairecoffey[at]live.co.uk! 
 
 ## <center>Recent News</center>
-- <b>December 2025:</b> Our [paper](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858) <i>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction </i> was published in the European Heart Journal. 
+- <b> December 2025:</b> I delivered a seminar at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/themes/statistical-methods) <i>Are polygenic risk scores fair for cardiovascular disease risk prediction?</i> which is available to watch [here](https://www.youtube.com/watch?v=NAtyKJLA5cE). 
+- <b>December 2025:</b> Our [paper](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858) <i>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction</i> was published in the European Heart Journal. 
 - <b>October 2025:</b> I attended my graduation ceremony at the University of Cambridge - I am now officially a PhD!
 - <b>September 2025:</b> A [preprint of our paper](https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1) <i>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction </i> was released.
 - <b>August 2025:</b> Handed in the hardbound copy of my PhD thesis, also [available online](https://www.repository.cam.ac.uk/items/410ed92f-0eb0-4e07-8317-6ed774570d0c).
