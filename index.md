@@ -12,6 +12,7 @@ Earlier in my career, I worked as an AI research consultant in a start-up enviro
 I particularly value the collaborative side of research and enjoy connecting with people from diverse disciplines. Feel free to get in touch via [Bluesky](https://bsky.app/profile/clairecoffey.bsky.social), [LinkedIn](https://www.linkedin.com/in/claire-coffey/), or e-mail clairecoffey[at]live.co.uk! 
 
 ## <center>Recent News</center>
+- <b> February 2026:</b> I won a pitch prize for a pitch on making preventive healthcare more personalised and scalable at the [ai@cam](https://www.ai.cam.ac.uk/) Sciencepreneurship competition! 
 - <b> December 2025:</b> I delivered the monthly seminar at [Data Science for Health Equity](https://www.datascienceforhealthequity.com/themes/statistical-methods): <i>Are polygenic risk scores fair for cardiovascular disease risk prediction? </i> This is available to watch [here](https://www.youtube.com/watch?v=NAtyKJLA5cE). 
 - <b>December 2025:</b> Our [paper](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858) <i>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction</i> was published in the European Heart Journal. 
 - <b>October 2025:</b> I attended my graduation ceremony at the University of Cambridge - I am now officially a PhD!
@@ -44,6 +45,7 @@ University of Cambridge Apollo, <a href="https://www.repository.cam.ac.uk/items/
 <a href="https://www.ipo.gov.uk/p-find-publication-getPDF.pdf?PatentNo=GB2555794&DocType=A&JournalNumber=6730">GB patent</a> (2018)
 
 ## <center>Academic Talks</center>
+- <b> [Data Science for Health Equity Seminar](https://www.datascienceforhealthequity.com/themes/statistical-methods) (2025):</b> <i>Are polygenic risk scores fair for cardiovascular disease risk prediction? </i> Available to watch [here](https://www.youtube.com/watch?v=NAtyKJLA5cE). 
 - <b> Helmholtz Munich Seminar (2025)</b>: <i>Improving Cardiovascular Disease Prediction: From Fair Algorithms to Environmental Insights</i>
 - <b> [International Day of Women in Statistics and Data Science (IDWSDS) Conference](https://www.idwsds.org/) (2024)</b>: <i>Data Science for Health Equity: Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
 - <b>[European Conference on Machine Learning (ECML PKDD)](https://ecmlpkdd.org/) (2024):</b> <i>Understanding and Improving Algorithmic Fairness in Cardiovascular Disease Risk Prediction</i>.
