@@ -28,9 +28,9 @@ I particularly value the collaborative side of research and enjoy connecting wit
 
 ## <center>Publications & Patents</center>
 - <b>Current polygenic risk scores are unlikely to exacerbate unfairness in cardiovascular disease risk prediction</b> <i><u>C Coffey</u>, SC Ritchie, L Pennells, AM Wood, M Inouye, SA Lambert </i> <a href="https://www.medrxiv.org/content/10.1101/2025.09.18.25336069v1">medRxiv preprint </a> (2025)
-- <b>Cardiovascular risk prediction using metabolomic biomarkers and polygenic risk scores: A cohort study and modelling analyses</b> 
+- <b>Combined clinical, metabolomic, and polygenic scores for cardiovascular risk prediction</b> 
 <i>SC Ritchie, X Jiang, L Pennells, Y Xu, <u>C Coffey</u>, Y Liu, P Surendran, S Karthikeyan, SA Lambert, J Danesh, AS Butterworth, A Wood, S Kaptoge, E Di Angelantonio, M Inouye </i>  
-<a href="https://www.medrxiv.org/content/10.1101/2023.10.31.23297859v3">medRxiv preprint </a> (2025)
+<a href="https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858">European Heart Journal </a> (2025)
 - <b>Axes of prognosis: Identifying subtypes of COVID-19 Outcomes</b>  
 <i>E Whitfield \*, <u>C Coffey *</u>, H Zhang, T Shi, X Wu, Q Li, H Wu (\* = equal contribution)</i>  
 American Medical Informatics Association Annual Symposium <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8861682/">conference paper</a>, <a href="https://www.youtube.com/watch?v=WT9sfyTnmuE"> presentation recording</a> (2021)
