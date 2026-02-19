@@ -3,74 +3,31 @@ const bottomLinks = [
   {
     header: 'Social',
     links: [
-      {
-        name: 'Github',
-        href: 'https://github.com/',
-        isExternal: true,
-      },
-      {
-        name: 'Twitter',
-        href: 'https://twitter.com/',
-        isExternal: true,
-      },
-      {
-        name: 'Instagram',
-        href: 'https://instagram.com/',
-        isExternal: true,
-      },
-      {
-        name: 'Facebook',
-        href: 'https://facebook.com/',
-        isExternal: true,
-      },
+      { name: 'LinkedIn', href: 'https://www.linkedin.com/in/claire-coffey/', isExternal: true },
+      { name: 'GitHub', href: 'https://github.com/clairecoffey', isExternal: true },
+      { name: 'Bluesky', href: 'https://bsky.app/profile/clairecoffey.bsky.social', isExternal: true },
+      { name: 'Medium', href: 'https://medium.com/@clairecoffey-71283', isExternal: true },
     ],
   },
   {
-    header: 'Company',
+    header: 'Site',
     links: [
-      {
-        name: 'Home',
-        href: '/',
-        isExternal: false,
-      },
-      {
-        name: 'About',
-        href: '/about',
-        isExternal: false,
-      },
-      {
-        name: 'Pricing',
-        href: '/pricing',
-        isExternal: false,
-      },
-      {
-        name: 'Contact',
-        href: '/contact',
-        isExternal: false,
-      },
+      { name: 'Top', href: '/#top', isExternal: false },
+      { name: 'Work', href: '/#work', isExternal: false },
+      { name: 'About', href: '/#about', isExternal: false },
+      { name: 'Highlights', href: '/#highlights', isExternal: false },
+      { name: 'Contact', href: '/#contact', isExternal: false },
     ],
   },
   {
-    header: 'Legal',
+    header: 'Contact',
     links: [
-      {
-        name: 'Privacy',
-        href: '/privacy',
-        isExternal: false,
-      },
-      {
-        name: '404',
-        href: '/404',
-        isExternal: false,
-      },
-      {
-        name: 'Styleguide',
-        href: '/styleguide',
-        isExternal: false,
-      },
+      { name: 'Email', href: 'mailto:clairecoffey@live.co.uk', isExternal: true },
     ],
   },
 ];
+
+const year = new Date().getFullYear();
 ---
 
 <footer
@@ -78,24 +35,21 @@ const bottomLinks = [
   aria-labelledby="footer-heading"
 >
   <h2 id="footer-heading" class="sr-only">Footer</h2>
+
   <div class="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
     <div class="flex flex-col justify-between gap-12 sm:gap-16 lg:flex-row">
       <div class="flex max-w-sm flex-col items-start gap-6 sm:gap-8">
-        <img
-          class="h-8 w-auto"
-          width="65"
-          height="40"
-          :src="$store.theme.isDark ? '/assets/logo-inverted.svg' : '/assets/logo.svg'"
-          alt="Stone"
-        />
+        <div class="text-primary-950 dark:text-primary-200 text-lg font-medium tracking-tight">
+          Claire Coffey
+        </div>
+
         <p class="text-primary-950/70 dark:text-primary-200/70 text-base">
-          Stone is a premium Astro theme specially designed for Business, Marketing, SaaS and
-          Startup websites.
+          Founder building preventive health AI. Responsible &amp; explainable machine learning in health and environmental applications.
         </p>
-        <p class="text-primary-950/70 dark:text-primary-200/70 text-sm">© 2023 Stone</p>
+
+        <p class="text-primary-950/70 dark:text-primary-200/70 text-sm">© {year} Claire Coffey</p>
       </div>
 
-      <!-- Bottom links -->
       <div class="grid max-w-xl flex-1 grid-cols-1 gap-8 sm:grid-cols-3">
         {
           bottomLinks.map((group) => (
@@ -108,7 +62,7 @@ const bottomLinks = [
                       href={link.href}
                       class="focus-visible:outline-primary-950 dark:focus-visible:outline-primary-200 inline-flex items-center gap-1 rounded-md text-base hover:underline focus-visible:outline focus-visible:outline-2"
                       target={link.isExternal ? '_blank' : undefined}
-                      rel={link.isExternal ? 'noopener' : undefined}
+                      rel={link.isExternal ? 'noopener noreferrer' : undefined}
                     >
                       {link.name}
                       {link.isExternal && (
