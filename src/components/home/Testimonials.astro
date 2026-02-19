@@ -1,0 +1,59 @@
+---
+const highlights = [
+  {
+    title: 'Pitch prize · ai@cam Sciencepreneurship (2026)',
+    description:
+      'Won a pitch prize for a preventive health AI concept focused on making prevention more personalised and scalable.',
+    linkText: 'ai@cam',
+    linkHref: 'https://www.ai.cam.ac.uk/',
+  },
+  {
+    title: 'European Heart Journal (2025)',
+    description:
+      'Co-author on work combining clinical, metabolomic, and polygenic scores for cardiovascular risk prediction.',
+    linkText: 'Paper',
+    linkHref:
+      'https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858',
+  },
+  {
+    title: 'Talk · Data Science for Health Equity (2025)',
+    description:
+      'Invited seminar on whether polygenic risk scores are fair for cardiovascular risk prediction.',
+    linkText: 'Watch',
+    linkHref: 'https://www.youtube.com/watch?v=NAtyKJLA5cE',
+  },
+];
+---
+
+<section id="highlights" class="py-16 sm:py-20">
+  <div class="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+    <div class="flex flex-col items-center gap-12 lg:gap-16">
+      <h2 class="mx-auto max-w-2xl text-center text-3xl font-medium tracking-tight sm:text-4xl">
+        Selected highlights
+      </h2>
+
+      <div class="divide-primary-900/10 dark:divide-primary-300/10 grid divide-y lg:grid-cols-3 lg:divide-x lg:divide-y-0">
+        {
+          highlights.map((item) => (
+            <div class="mx-auto flex max-w-lg flex-col gap-6 py-8 lg:px-8 lg:py-0">
+              <div class="text-xl font-medium tracking-tight">{item.title}</div>
+
+              <p class="text-primary-950/70 dark:text-primary-200/70 text-base leading-relaxed">
+                {item.description}
+              </p>
+
+              <a
+                href={item.linkHref}
+                target="_blank"
+                rel="noreferrer"
+                class="text-primary-950 dark:text-primary-200 hover:bg-primary-500/10 dark:hover:bg-primary-400/10 ring-primary-950 inline-flex w-fit items-center justify-center rounded-full px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2"
+              >
+                {item.linkText} ↗
+              </a>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</section>
