@@ -4,14 +4,14 @@ const highlights = [
     title: 'Pitch prize · ai@cam Sciencepreneurship (2026)',
     description:
       'Won a pitch prize for a preventive health AI concept focused on making prevention more personalised and scalable.',
-    linkText: 'ai@cam',
-    linkHref: 'https://www.ai.cam.ac.uk/',
+    linkText: 'Info',
+    linkHref: 'https://www.linkedin.com/posts/ai-cambridge_ai-activity-7428089999465553921-M5g8?utm_source=share&utm_medium=member_desktop&rcm=ACoAABq3vsYBNIZRdkenisoEC9Ylxv6Ea48Ayl8',
   },
   {
-    title: 'European Heart Journal (2025)',
+    title: 'Paper · European Heart Journal (2025)',
     description:
       'Co-author on work combining clinical, metabolomic, and polygenic scores for cardiovascular risk prediction.',
-    linkText: 'Paper',
+    linkText: 'Read',
     linkHref:
       'https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf947/8379858',
   },
@@ -24,19 +24,20 @@ const highlights = [
   },
 ];
 ---
-
 <section id="highlights" class="py-16 sm:py-20">
-  <div class="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-    <div class="flex flex-col items-center gap-12 lg:gap-16">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col items-center gap-10 lg:gap-12">
       <h2 class="font-signature italic font-semibold tracking-tight text-3xl sm:text-4xl lg:text-5xl leading-[0.95]">
         Selected highlights
       </h2>
 
-      <div class="divide-primary-900/10 dark:divide-primary-300/10 grid divide-y lg:grid-cols-3 lg:divide-x lg:divide-y-0">
+      <div class="divide-primary-900/10 dark:divide-primary-300/10 grid divide-y lg:grid-cols-3 lg:divide-x lg:divide-y-0 w-full">
         {
           highlights.map((item) => (
-            <div class="mx-auto flex max-w-lg flex-col gap-6 py-8 lg:px-8 lg:py-0">
-              <div class="text-xl font-medium tracking-tight">{item.title}</div>
+            <article class="mx-auto flex max-w-lg flex-col gap-6 py-8 lg:px-8 lg:py-0">
+              <h3 class="text-xl sm:text-2xl font-semibold tracking-tight text-primary-950 dark:text-primary-200">
+                {item.title}
+              </h3>
 
               <p class="text-primary-950/70 dark:text-primary-200/70 text-base leading-relaxed">
                 {item.description}
@@ -48,12 +49,14 @@ const highlights = [
                 rel="noreferrer"
                 class="text-primary-950 dark:text-primary-200 hover:bg-primary-500/10 dark:hover:bg-primary-400/10 ring-primary-950 inline-flex w-fit items-center justify-center rounded-full px-4 py-2 text-sm font-medium transition focus-visible:outline-none focus-visible:ring-2"
               >
-                {item.linkText} ↗
+                {item.linkText} <span aria-hidden="true">↗</span>
               </a>
-            </div>
+            </article>
           ))
         }
       </div>
+
+
     </div>
   </div>
 </section>
