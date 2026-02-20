@@ -11,9 +11,12 @@ module.exports = {
       transparent: 'transparent',
       white: '#ffffff',
       primary: colors.stone,
+      accent: colors.sky,   // change this if you want a different vibe
+      rose: colors.rose,
     },
     fontFamily: {
       sans: ['Inter', 'sans-serif'],
+      signature: ['"Playfair Display"', 'serif'],
     },
     fontSize: {
       xs: ['0.75rem', '1rem'],
